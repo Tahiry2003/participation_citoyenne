@@ -1,0 +1,7110 @@
+{
+  "Region": {
+    "District": [
+      {
+        "nom": "Commune",
+        "code": "000001"
+      }
+    ]
+  },
+  "ANALAMANGA": {
+    "Ambohidratrimo": [
+      {
+        "nom": "Ambato",
+        "code": "000002"
+      },
+      {
+        "nom": "Ambatolampy",
+        "code": "000003"
+      },
+      {
+        "nom": "Antehiroka",
+        "code": "000004"
+      },
+      {
+        "nom": "Ambohidratrimo",
+        "code": "000005"
+      },
+      {
+        "nom": "Ambohimanjaka",
+        "code": "000006"
+      },
+      {
+        "nom": "Ambohipihaonana",
+        "code": "000007"
+      },
+      {
+        "nom": "Ambohitrimanjaka",
+        "code": "000008"
+      },
+      {
+        "nom": "Ampangabe",
+        "code": "000009"
+      },
+      {
+        "nom": "Ampanotokana",
+        "code": "000010"
+      },
+      {
+        "nom": "Anjanadoria",
+        "code": "000011"
+      },
+      {
+        "nom": "Anosiala",
+        "code": "000012"
+      },
+      {
+        "nom": "Antanetibe",
+        "code": "000013"
+      },
+      {
+        "nom": "Antsahafilo",
+        "code": "000014"
+      },
+      {
+        "nom": "Avaratsena",
+        "code": "000015"
+      },
+      {
+        "nom": "Fiadanana",
+        "code": "000016"
+      },
+      {
+        "nom": "Iarinarivo",
+        "code": "000017"
+      },
+      {
+        "nom": "Ivato",
+        "code": "000018"
+      },
+      {
+        "nom": "Mahabo",
+        "code": "000019"
+      },
+      {
+        "nom": "Mahereza",
+        "code": "000020"
+      },
+      {
+        "nom": "Mahitsy",
+        "code": "000021"
+      },
+      {
+        "nom": "Mananjara",
+        "code": "000022"
+      },
+      {
+        "nom": "Manjakavaradrano",
+        "code": "000023"
+      },
+      {
+        "nom": "Merimandroso",
+        "code": "000024"
+      },
+      {
+        "nom": "Talatamaty",
+        "code": "000025"
+      }
+    ],
+    "Andramasina": [
+      {
+        "nom": "Alarobia Vatosola",
+        "code": "000026"
+      },
+      {
+        "nom": "Alatsinainy Bakaro",
+        "code": "000027"
+      },
+      {
+        "nom": "Ambohimiadana",
+        "code": "000028"
+      },
+      {
+        "nom": "Andohariana",
+        "code": "000029"
+      },
+      {
+        "nom": "Andramasina",
+        "code": "000030"
+      },
+      {
+        "nom": "Anjoma Faliarivo",
+        "code": "000031"
+      },
+      {
+        "nom": "Anosibe Trimoloharano",
+        "code": "000032"
+      },
+      {
+        "nom": "Antotohazo",
+        "code": "000033"
+      },
+      {
+        "nom": "Fitsinjovana Bakaro",
+        "code": "000034"
+      },
+      {
+        "nom": "Mandrosoa",
+        "code": "000035"
+      },
+      {
+        "nom": "Morarano Soa Firaisana",
+        "code": "000036"
+      },
+      {
+        "nom": "Sabotsy Ambohitromby",
+        "code": "000037"
+      },
+      {
+        "nom": "Sabotsy Manjakavahoaka",
+        "code": "000038"
+      },
+      {
+        "nom": "Tankafatra",
+        "code": "000039"
+      }
+    ],
+    "Anjozorobe": [
+      {
+        "nom": "Alakamisy",
+        "code": "000040"
+      },
+      {
+        "nom": "Ambatomanoina",
+        "code": "000041"
+      },
+      {
+        "nom": "Amboasary Nord",
+        "code": "000042"
+      },
+      {
+        "nom": "Ambohibary Vohilena",
+        "code": "000043"
+      },
+      {
+        "nom": "Ambohimarina Marovazaha",
+        "code": "000044"
+      },
+      {
+        "nom": "Ambohimirary",
+        "code": "000045"
+      },
+      {
+        "nom": "Ambongamarina",
+        "code": "000046"
+      },
+      {
+        "nom": "Amparatanjona",
+        "code": "000047"
+      },
+      {
+        "nom": "Analaroa",
+        "code": "000048"
+      },
+      {
+        "nom": "Andranomisa",
+        "code": "000049"
+      },
+      {
+        "nom": "Androvakely",
+        "code": "000050"
+      },
+      {
+        "nom": "Anjozorobe",
+        "code": "000051"
+      },
+      {
+        "nom": "Antanetibe",
+        "code": "000052"
+      },
+      {
+        "nom": "Belanitra",
+        "code": "000053"
+      },
+      {
+        "nom": "Beronono",
+        "code": "000054"
+      },
+      {
+        "nom": "Betatao",
+        "code": "000055"
+      },
+      {
+        "nom": "Mangamila",
+        "code": "000056"
+      },
+      {
+        "nom": "Marotsipoy",
+        "code": "000057"
+      },
+      {
+        "nom": "Tsarasaotra Andona",
+        "code": "000058"
+      }
+    ],
+    "Ankazobe": [
+      {
+        "nom": "Ambohitromby",
+        "code": "000059"
+      },
+      {
+        "nom": "Ambolotarakely",
+        "code": "000060"
+      },
+      {
+        "nom": "Andranomiely",
+        "code": "000061"
+      },
+      {
+        "nom": "Ankazobe",
+        "code": "000062"
+      },
+      {
+        "nom": "Antakavana",
+        "code": "000063"
+      },
+      {
+        "nom": "Antotohazo",
+        "code": "000064"
+      },
+      {
+        "nom": "Fiadanana",
+        "code": "000065"
+      },
+      {
+        "nom": "Fihaonana",
+        "code": "000066"
+      },
+      {
+        "nom": "Kiangara",
+        "code": "000067"
+      },
+      {
+        "nom": "Mahavelona",
+        "code": "000068"
+      },
+      {
+        "nom": "Mangasoavina",
+        "code": "000069"
+      },
+      {
+        "nom": "Marondry",
+        "code": "000070"
+      },
+      {
+        "nom": "Miantso",
+        "code": "000071"
+      },
+      {
+        "nom": "Talata-Angavo",
+        "code": "000072"
+      },
+      {
+        "nom": "Tsaramasoandro",
+        "code": "000073"
+      }
+    ],
+    "Antananarivo Atsimondrano": [
+      {
+        "nom": "Alakamisy Fenoarivo",
+        "code": "000074"
+      },
+      {
+        "nom": "Alatsinainy Ambazaha",
+        "code": "000075"
+      },
+      {
+        "nom": "Ambalavao",
+        "code": "000076"
+      },
+      {
+        "nom": "Ambatofahavalo",
+        "code": "000077"
+      },
+      {
+        "nom": "Ambavahaditokana",
+        "code": "000078"
+      },
+      {
+        "nom": "Ambohidrapeto",
+        "code": "000079"
+      },
+      {
+        "nom": "Ambohijanaka",
+        "code": "000080"
+      },
+      {
+        "nom": "Ampahitrosy",
+        "code": "000081"
+      },
+      {
+        "nom": "Ampanefy",
+        "code": "000082"
+      },
+      {
+        "nom": "Ampitatafika",
+        "code": "000083"
+      },
+      {
+        "nom": "Andoharanofotsy",
+        "code": "000084"
+      },
+      {
+        "nom": "Andranonahoatra",
+        "code": "000085"
+      },
+      {
+        "nom": "Androhibe",
+        "code": "000086"
+      },
+      {
+        "nom": "Ankadimanga",
+        "code": "000087"
+      },
+      {
+        "nom": "Ankaraobato",
+        "code": "000088"
+      },
+      {
+        "nom": "Anosizato Andrefana",
+        "code": "000089"
+      },
+      {
+        "nom": "Antanetikely",
+        "code": "000090"
+      },
+      {
+        "nom": "Bemasoandro",
+        "code": "000091"
+      },
+      {
+        "nom": "Bongatsara",
+        "code": "000092"
+      },
+      {
+        "nom": "Fenoarivo",
+        "code": "000093"
+      },
+      {
+        "nom": "Fiombonana",
+        "code": "000094"
+      },
+      {
+        "nom": "Itaosy",
+        "code": "000095"
+      },
+      {
+        "nom": "Soalandy",
+        "code": "000096"
+      },
+      {
+        "nom": "Soavina",
+        "code": "000097"
+      },
+      {
+        "nom": "Tanjombato",
+        "code": "000098"
+      },
+      {
+        "nom": "Tsiafahy",
+        "code": "000099"
+      }
+    ],
+    "Antananarivo Avaradrano": [
+      {
+        "nom": "Alasora",
+        "code": "000100"
+      },
+      {
+        "nom": "Ambohimalaza Miray",
+        "code": "000101"
+      },
+      {
+        "nom": "Ambohimanambola",
+        "code": "000102"
+      },
+      {
+        "nom": "Ambohimanga Rova",
+        "code": "000103"
+      },
+      {
+        "nom": "Ambohimangakely",
+        "code": "000104"
+      },
+      {
+        "nom": "Ambohidrabiby",
+        "code": "000105"
+      },
+      {
+        "nom": "Anjeva Gara",
+        "code": "000106"
+      },
+      {
+        "nom": "Ankadikely Ilafy",
+        "code": "000107"
+      },
+      {
+        "nom": "Ankadinandriana",
+        "code": "000108"
+      },
+      {
+        "nom": "Anosy Avaratra",
+        "code": "000109"
+      },
+      {
+        "nom": "Fieferana",
+        "code": "000110"
+      },
+      {
+        "nom": "Manandriana",
+        "code": "000111"
+      },
+      {
+        "nom": "Masindray",
+        "code": "000112"
+      },
+      {
+        "nom": "Sabotsy Namehana",
+        "code": "000113"
+      },
+      {
+        "nom": "Talata Volonondry",
+        "code": "000114"
+      },
+      {
+        "nom": "Vilihazo",
+        "code": "000115"
+      }
+    ],
+    "Manjakandriana": [
+      {
+        "nom": "Alarobia",
+        "code": "000116"
+      },
+      {
+        "nom": "Ambanitsena",
+        "code": "000117"
+      },
+      {
+        "nom": "Ambatolaona",
+        "code": "000118"
+      },
+      {
+        "nom": "Ambatomanga",
+        "code": "000119"
+      },
+      {
+        "nom": "Ambatomena",
+        "code": "000120"
+      },
+      {
+        "nom": "Ambohibao Sud",
+        "code": "000121"
+      },
+      {
+        "nom": "Ambohibary",
+        "code": "000122"
+      },
+      {
+        "nom": "Ambohitrandriamanitra",
+        "code": "000123"
+      },
+      {
+        "nom": "Ambohitrolomahitsy",
+        "code": "000124"
+      },
+      {
+        "nom": "Ambohitrony",
+        "code": "000125"
+      },
+      {
+        "nom": "Ambohitseheno",
+        "code": "000126"
+      },
+      {
+        "nom": "Ampaneva",
+        "code": "000127"
+      },
+      {
+        "nom": "Anjepy",
+        "code": "000128"
+      },
+      {
+        "nom": "Anjoma Betoho",
+        "code": "000129"
+      },
+      {
+        "nom": "Ankazodandy",
+        "code": "000130"
+      },
+      {
+        "nom": "Antsahalalina",
+        "code": "000131"
+      },
+      {
+        "nom": "Manjakandriana",
+        "code": "000132"
+      },
+      {
+        "nom": "Mantasoa",
+        "code": "000133"
+      },
+      {
+        "nom": "Merikanjaka",
+        "code": "000134"
+      },
+      {
+        "nom": "Miadanandriana",
+        "code": "000135"
+      },
+      {
+        "nom": "Nandihizana Carion",
+        "code": "000136"
+      },
+      {
+        "nom": "Ranovao",
+        "code": "000137"
+      },
+      {
+        "nom": "Sadabe",
+        "code": "000138"
+      },
+      {
+        "nom": "Sambaina",
+        "code": "000139"
+      },
+      {
+        "nom": "Soavinandriana (Ambohidratrimoanala)",
+        "code": "000140"
+      }
+    ],
+    "Antananarivo-I": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000141"
+      }
+    ],
+    "Antananarivo-II": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000142"
+      }
+    ],
+    "Antananarivo-III": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000143"
+      }
+    ],
+    "Antananarivo-IV": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000144"
+      }
+    ],
+    "Antananarivo-V": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000145"
+      }
+    ],
+    "Antananarivo-VI": [
+      {
+        "nom": "Commune Urbaine d'Antananarivo",
+        "code": "000146"
+      }
+    ]
+  },
+  "BONGOLAVA": {
+    "FENOARIVOBE": [
+      {
+        "nom": "AMBATOMAINTY SUD",
+        "code": "000147"
+      },
+      {
+        "nom": "AMBOHITROMBY",
+        "code": "000148"
+      },
+      {
+        "nom": "FENOARIVOBE",
+        "code": "000149"
+      },
+      {
+        "nom": "FIRAVAHANA",
+        "code": "000150"
+      },
+      {
+        "nom": "KIRANOMENA",
+        "code": "000151"
+      },
+      {
+        "nom": "MAHAJEBY",
+        "code": "000152"
+      },
+      {
+        "nom": "MORARANO MARITAMPONA",
+        "code": "000153"
+      },
+      {
+        "nom": "TSINJOARIVO 22",
+        "code": "000154"
+      },
+      {
+        "nom": "MANGATANY",
+        "code": "000155"
+      },
+      {
+        "nom": "ANDRIAMPOTSY",
+        "code": "000156"
+      }
+    ],
+    "TSIROANOMANDIDY": [
+      {
+        "nom": "AMBALANIRANA",
+        "code": "000157"
+      },
+      {
+        "nom": "AMBARARATABE",
+        "code": "000158"
+      },
+      {
+        "nom": "AMBATOLAMPY",
+        "code": "000159"
+      },
+      {
+        "nom": "ANKADINONDRY SAKAY",
+        "code": "000160"
+      },
+      {
+        "nom": "ANKERANA NORD",
+        "code": "000161"
+      },
+      {
+        "nom": "ANOSY",
+        "code": "000162"
+      },
+      {
+        "nom": "BELOBAKA",
+        "code": "000163"
+      },
+      {
+        "nom": "BEMAHATAZANA",
+        "code": "000164"
+      },
+      {
+        "nom": "BEVATO",
+        "code": "000165"
+      },
+      {
+        "nom": "FIERENANA",
+        "code": "000166"
+      },
+      {
+        "nom": "MAHASOLO",
+        "code": "000167"
+      },
+      {
+        "nom": "MAROHARONA",
+        "code": "000168"
+      },
+      {
+        "nom": "MARITAMPONA",
+        "code": "000169"
+      },
+      {
+        "nom": "MIANDRARIVO",
+        "code": "000170"
+      },
+      {
+        "nom": "SOANIERANA",
+        "code": "000171"
+      },
+      {
+        "nom": "TSINJOARIVO-IMANGA",
+        "code": "000172"
+      },
+      {
+        "nom": "TSIROANOMANDIDY FIHAONANA",
+        "code": "000173"
+      },
+      {
+        "nom": "TSIROANOMANDIDY VILLE",
+        "code": "000174"
+      },
+      {
+        "nom": "ANTSAHALAVA",
+        "code": "000175"
+      },
+      {
+        "nom": "FIADANANTSOA",
+        "code": "000176"
+      }
+    ]
+  },
+  "ITASY": {
+    "ARIVONIMAMO": [
+      {
+        "nom": "ALAKAMISIKELY",
+        "code": "000177"
+      },
+      {
+        "nom": "AMBATOMANGA",
+        "code": "000178"
+      },
+      {
+        "nom": "AMBATOMIRAHAVAVY",
+        "code": "000179"
+      },
+      {
+        "nom": "AMBOANANA",
+        "code": "000180"
+      },
+      {
+        "nom": "AMBOHIMANDRY",
+        "code": "000181"
+      },
+      {
+        "nom": "AMBOHIMASINA",
+        "code": "000182"
+      },
+      {
+        "nom": "AMBOHIPANDRANO",
+        "code": "000183"
+      },
+      {
+        "nom": "AMBOHITRAMBO",
+        "code": "000184"
+      },
+      {
+        "nom": "AMPAHIMANGA",
+        "code": "000185"
+      },
+      {
+        "nom": "ANDRANOMIELY",
+        "code": "000186"
+      },
+      {
+        "nom": "ANTAMBOLO",
+        "code": "000187"
+      },
+      {
+        "nom": "ANTENIMBE",
+        "code": "000188"
+      },
+      {
+        "nom": "ARIVONIMAMO",
+        "code": "000189"
+      },
+      {
+        "nom": "ARIVONIMAMO II",
+        "code": "000190"
+      },
+      {
+        "nom": "IMERINTSIATOSIKA",
+        "code": "000191"
+      },
+      {
+        "nom": "MAHATSINJO EST",
+        "code": "000192"
+      },
+      {
+        "nom": "MANALALONDO",
+        "code": "000193"
+      },
+      {
+        "nom": "MAROFANGADY",
+        "code": "000194"
+      },
+      {
+        "nom": "MIANDRANDRA",
+        "code": "000195"
+      },
+      {
+        "nom": "MIANTSOARIVO",
+        "code": "000196"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "000197"
+      },
+      {
+        "nom": "MORARANO",
+        "code": "000198"
+      },
+      {
+        "nom": "TALATA TSIMADILO",
+        "code": "000199"
+      }
+    ],
+    "MIARINARIVO": [
+      {
+        "nom": "ALATSINAINIKELY",
+        "code": "000200"
+      },
+      {
+        "nom": "AMBATOMANJAKA",
+        "code": "000201"
+      },
+      {
+        "nom": "ANALAVORY",
+        "code": "000202"
+      },
+      {
+        "nom": "ANDOLOFOTSY",
+        "code": "000203"
+      },
+      {
+        "nom": "ANOSIBE-IFANJA",
+        "code": "000204"
+      },
+      {
+        "nom": "ANTOBY EST",
+        "code": "000205"
+      },
+      {
+        "nom": "MANAZARY",
+        "code": "000206"
+      },
+      {
+        "nom": "MANDIAVATO",
+        "code": "000207"
+      },
+      {
+        "nom": "MIARINARIVO",
+        "code": "000208"
+      },
+      {
+        "nom": "MIARINARIVO II",
+        "code": "000209"
+      },
+      {
+        "nom": "SAROBARATRA",
+        "code": "000210"
+      },
+      {
+        "nom": "SOAMAHAMANINA",
+        "code": "000211"
+      },
+      {
+        "nom": "SOAVIMBAZAHA",
+        "code": "000212"
+      },
+      {
+        "nom": "ZOMA BEALOKA",
+        "code": "000213"
+      }
+    ],
+    "SOAVINANDRIANA": [
+      {
+        "nom": "AMBATOASANA CENTRE",
+        "code": "000214"
+      },
+      {
+        "nom": "AMBEROMANGA",
+        "code": "000215"
+      },
+      {
+        "nom": "AMPARAKY",
+        "code": "000216"
+      },
+      {
+        "nom": "AMPARIBOHITRA",
+        "code": "000217"
+      },
+      {
+        "nom": "AMPARY",
+        "code": "000218"
+      },
+      {
+        "nom": "AMPEFY",
+        "code": "000219"
+      },
+      {
+        "nom": "ANKARANANA",
+        "code": "000220"
+      },
+      {
+        "nom": "ANKISABE",
+        "code": "000221"
+      },
+      {
+        "nom": "ANTANETIBE",
+        "code": "000222"
+      },
+      {
+        "nom": "DONDONA",
+        "code": "000223"
+      },
+      {
+        "nom": "MAHAVELONA",
+        "code": "000224"
+      },
+      {
+        "nom": "MANANASY",
+        "code": "000225"
+      },
+      {
+        "nom": "MASINDRAY",
+        "code": "000226"
+      },
+      {
+        "nom": "SOAVINANDRIANA",
+        "code": "000227"
+      },
+      {
+        "nom": "TAMPONALA",
+        "code": "000228"
+      },
+      {
+        "nom": "AMBOHIDANERANA",
+        "code": "000229"
+      }
+    ]
+  },
+  "VAKINANKARATRA": {
+    "AMBATOLAMPY": [
+      {
+        "nom": "AMBATOLAMPY",
+        "code": "000230"
+      },
+      {
+        "nom": "AMBATONDRAKALAVAO",
+        "code": "000231"
+      },
+      {
+        "nom": "AMBODIFARIHY",
+        "code": "000232"
+      },
+      {
+        "nom": "AMBOHIMPIHAONANA",
+        "code": "000233"
+      },
+      {
+        "nom": "ANDRANOVELONA",
+        "code": "000234"
+      },
+      {
+        "nom": "ANDRAVOLA VOHIPENO",
+        "code": "000235"
+      },
+      {
+        "nom": "ANDRIAMBILANY",
+        "code": "000236"
+      },
+      {
+        "nom": "ANTAKASINA",
+        "code": "000237"
+      },
+      {
+        "nom": "ANTANAMALAZA",
+        "code": "000238"
+      },
+      {
+        "nom": "ANTANIMASAKA",
+        "code": "000239"
+      },
+      {
+        "nom": "ANTSAMPANDRANO",
+        "code": "000240"
+      },
+      {
+        "nom": "BEHENJY",
+        "code": "000241"
+      },
+      {
+        "nom": "BELAMBO FIRAISANA",
+        "code": "000242"
+      },
+      {
+        "nom": "MANJAKATOMPO",
+        "code": "000243"
+      },
+      {
+        "nom": "MORARANO",
+        "code": "000244"
+      },
+      {
+        "nom": "SABOTSY NAMATOANA",
+        "code": "000245"
+      },
+      {
+        "nom": "TSIAFAJAVONA ANKARATRA",
+        "code": "000246"
+      },
+      {
+        "nom": "TSINJOARIVO",
+        "code": "000247"
+      },
+      {
+        "nom": "ANDRIANTSIVALANA",
+        "code": "000248"
+      }
+    ],
+    "ANTANIFOTSY": [
+      {
+        "nom": "AMBATOLAHY",
+        "code": "000249"
+      },
+      {
+        "nom": "AMBATOMIADY",
+        "code": "000250"
+      },
+      {
+        "nom": "AMBATOTSIPIHANA",
+        "code": "000251"
+      },
+      {
+        "nom": "AMBODIRIANA",
+        "code": "000252"
+      },
+      {
+        "nom": "AMBOHIMANDROSO",
+        "code": "000253"
+      },
+      {
+        "nom": "AMBOHITOMPOINA",
+        "code": "000254"
+      },
+      {
+        "nom": "AMPITATAFIKA",
+        "code": "000255"
+      },
+      {
+        "nom": "ANDRANOFITO",
+        "code": "000256"
+      },
+      {
+        "nom": "ANTANIFOTSY",
+        "code": "000257"
+      },
+      {
+        "nom": "ANTSAHALAVA",
+        "code": "000258"
+      },
+      {
+        "nom": "ANTSAMPANDRANO",
+        "code": "000259"
+      },
+      {
+        "nom": "BELANITRA",
+        "code": "000260"
+      },
+      {
+        "nom": "ANJAMANGA",
+        "code": "000261"
+      },
+      {
+        "nom": "SOAMANANDRARINY",
+        "code": "000262"
+      }
+    ],
+    "ANTSIRABE I": [
+      {
+        "nom": "ANTSIRABE",
+        "code": "000263"
+      }
+    ],
+    "ANTSIRABE II": [
+      {
+        "nom": "ALAKAMISY",
+        "code": "000264"
+      },
+      {
+        "nom": "ALATSINAINY IBITY",
+        "code": "000265"
+      },
+      {
+        "nom": "AMBANO",
+        "code": "000266"
+      },
+      {
+        "nom": "AMBATOMENA",
+        "code": "000267"
+      },
+      {
+        "nom": "AMBOHIBARY",
+        "code": "000268"
+      },
+      {
+        "nom": "AMBOHIDRANANDRIANA",
+        "code": "000269"
+      },
+      {
+        "nom": "AMBOHIMIARIVO",
+        "code": "000270"
+      },
+      {
+        "nom": "AMBOHITSIMANOVA",
+        "code": "000271"
+      },
+      {
+        "nom": "ANDRANOMANELATRA",
+        "code": "000272"
+      },
+      {
+        "nom": "ANTANAMBAO",
+        "code": "000273"
+      },
+      {
+        "nom": "ANTANIMANDRY",
+        "code": "000274"
+      },
+      {
+        "nom": "ANTSOANTANY",
+        "code": "000275"
+      },
+      {
+        "nom": "BELAZAO",
+        "code": "000276"
+      },
+      {
+        "nom": "MANANDONA",
+        "code": "000277"
+      },
+      {
+        "nom": "MANDROSOHASINA",
+        "code": "000278"
+      },
+      {
+        "nom": "MANGARANO",
+        "code": "000279"
+      },
+      {
+        "nom": "SAHANIVOTRY MANANDONA",
+        "code": "000280"
+      },
+      {
+        "nom": "SOANINDRARINY",
+        "code": "000281"
+      },
+      {
+        "nom": "TSARAHONENANA SAHANIVOTRY",
+        "code": "000282"
+      },
+      {
+        "nom": "VINANINKARENA",
+        "code": "000283"
+      }
+    ],
+    "BETAFO": [
+      {
+        "nom": "ALAKAMISY ANATIVATO",
+        "code": "000284"
+      },
+      {
+        "nom": "ALAKAMISY MAROSOSONA",
+        "code": "000285"
+      },
+      {
+        "nom": "ALAROBIA BEMAHA",
+        "code": "000286"
+      },
+      {
+        "nom": "AMBATONIKOLAHY",
+        "code": "000287"
+      },
+      {
+        "nom": "AMBOHIMANAMBOLA",
+        "code": "000288"
+      },
+      {
+        "nom": "AMBOHIMASINA",
+        "code": "000289"
+      },
+      {
+        "nom": "ANDRANOMAFANA",
+        "code": "000290"
+      },
+      {
+        "nom": "ANDREMBESOA",
+        "code": "000291"
+      },
+      {
+        "nom": "MANOHISOA",
+        "code": "000292"
+      },
+      {
+        "nom": "MANDRITSARA",
+        "code": "000293"
+      },
+      {
+        "nom": "ANOSIARIVO MANAPA",
+        "code": "000294"
+      },
+      {
+        "nom": "SOAVINA",
+        "code": "000295"
+      },
+      {
+        "nom": "ANTOHOBE",
+        "code": "000296"
+      },
+      {
+        "nom": "ANTSOSO",
+        "code": "000297"
+      },
+      {
+        "nom": "BETAFO",
+        "code": "000298"
+      },
+      {
+        "nom": "TRITRIVA",
+        "code": "000299"
+      },
+      {
+        "nom": "MAHAIZA",
+        "code": "000300"
+      },
+      {
+        "nom": "INANANTONANA",
+        "code": "000301"
+      }
+    ],
+    "FARATSIHO": [
+      {
+        "nom": "AMBOHIBORONA",
+        "code": "000302"
+      },
+      {
+        "nom": "ANDRANOMIADY",
+        "code": "000303"
+      },
+      {
+        "nom": "ANTSAMPANIMAHAZO",
+        "code": "000304"
+      },
+      {
+        "nom": "FARATSIHO",
+        "code": "000305"
+      },
+      {
+        "nom": "MIANDRARIVO",
+        "code": "000306"
+      },
+      {
+        "nom": "RAMAINANDRO",
+        "code": "000307"
+      },
+      {
+        "nom": "VALABETOKANA",
+        "code": "000308"
+      },
+      {
+        "nom": "FARAVOHITRA",
+        "code": "000309"
+      },
+      {
+        "nom": "VINANINONY SUD",
+        "code": "000310"
+      }
+    ],
+    "MANDOTO": [
+      {
+        "nom": "MANDOTO",
+        "code": "000311"
+      },
+      {
+        "nom": "VASIANA",
+        "code": "000312"
+      },
+      {
+        "nom": "ANTANAMBAO AMBARY",
+        "code": "000313"
+      },
+      {
+        "nom": "BETSOHANA",
+        "code": "000314"
+      },
+      {
+        "nom": "ANKAZOMIRIOTRA",
+        "code": "000315"
+      },
+      {
+        "nom": "VINANY",
+        "code": "000316"
+      },
+      {
+        "nom": "ANJOMA RAMARTINA",
+        "code": "000317"
+      },
+      {
+        "nom": "FIDIRANA",
+        "code": "000318"
+      },
+      {
+        "nom": "MAROMANDRAY",
+        "code": "000319"
+      }
+    ]
+  },
+  "DIANA": {
+    "AMBANJA": [
+      {
+        "nom": "AMBALAHONKO",
+        "code": "000320"
+      },
+      {
+        "nom": "AMBALIHA",
+        "code": "000321"
+      },
+      {
+        "nom": "AMBANJA",
+        "code": "000322"
+      },
+      {
+        "nom": "AMBODIMANGA RAMENA",
+        "code": "000323"
+      },
+      {
+        "nom": "AMBOHIMARINA",
+        "code": "000324"
+      },
+      {
+        "nom": "AMBOHIMENA",
+        "code": "000325"
+      },
+      {
+        "nom": "AMBOHITRANDRIANA",
+        "code": "000326"
+      },
+      {
+        "nom": "ANKATAFA",
+        "code": "000327"
+      },
+      {
+        "nom": "ANKINGAMELOKA",
+        "code": "000328"
+      },
+      {
+        "nom": "ANOROTSANGANA",
+        "code": "000329"
+      },
+      {
+        "nom": "ANTAFIAMBOTRY",
+        "code": "000330"
+      },
+      {
+        "nom": "ANTRANOKARANY",
+        "code": "000331"
+      },
+      {
+        "nom": "ANTSAKOAMANONDRO",
+        "code": "000332"
+      },
+      {
+        "nom": "ANTSATSAKA",
+        "code": "000333"
+      },
+      {
+        "nom": "ANTSIRABE",
+        "code": "000334"
+      },
+      {
+        "nom": "BEMANEVIKA HAUT-SAMBIRANO",
+        "code": "000335"
+      },
+      {
+        "nom": "BEMANEVIKA OUEST",
+        "code": "000336"
+      },
+      {
+        "nom": "BENAVONY",
+        "code": "000337"
+      },
+      {
+        "nom": "DJANGOA",
+        "code": "000338"
+      },
+      {
+        "nom": "MAEVATANANA",
+        "code": "000339"
+      },
+      {
+        "nom": "MAHERIVARATRA",
+        "code": "000340"
+      },
+      {
+        "nom": "MAROTOLANA",
+        "code": "000341"
+      },
+      {
+        "nom": "MAROVATO",
+        "code": "000342"
+      },
+      {
+        "nom": "ANTSAHABE CENTRE",
+        "code": "000343"
+      }
+    ],
+    "AMBILOBE": [
+      {
+        "nom": "AMBAKIRANO",
+        "code": "000344"
+      },
+      {
+        "nom": "AMBARAKARAKA",
+        "code": "000345"
+      },
+      {
+        "nom": "AMBATOBEN ' ANJAVY",
+        "code": "000346"
+      },
+      {
+        "nom": "AMBILOBE",
+        "code": "000347"
+      },
+      {
+        "nom": "AMBODIBONARA",
+        "code": "000348"
+      },
+      {
+        "nom": "AMPONDRALAVA",
+        "code": "000349"
+      },
+      {
+        "nom": "ANABORANO IFASY",
+        "code": "000350"
+      },
+      {
+        "nom": "ANJIABE HAUT",
+        "code": "000351"
+      },
+      {
+        "nom": "ANTSARAVIBE",
+        "code": "000352"
+      },
+      {
+        "nom": "ANTSOHIMBONDRONA",
+        "code": "000353"
+      },
+      {
+        "nom": "BERAMANJA",
+        "code": "000354"
+      },
+      {
+        "nom": "BETSIAKA",
+        "code": "000355"
+      },
+      {
+        "nom": "MANAMBATO",
+        "code": "000356"
+      },
+      {
+        "nom": "MANTALY",
+        "code": "000357"
+      },
+      {
+        "nom": "TANAMBAO MARIVORAHONA",
+        "code": "000358"
+      },
+      {
+        "nom": "ANTANABE",
+        "code": "000359"
+      },
+      {
+        "nom": "SIRAMA",
+        "code": "000360"
+      }
+    ],
+    "ANTSIRANANA I": [
+      {
+        "nom": "ANTSIRANANA",
+        "code": "000361"
+      }
+    ],
+    "ANTSIRANANA II": [
+      {
+        "nom": "AMBONDRONA",
+        "code": "000362"
+      },
+      {
+        "nom": "ANDRAFIABE",
+        "code": "000363"
+      },
+      {
+        "nom": "ANDRANOFANJAVA",
+        "code": "000364"
+      },
+      {
+        "nom": "ANDRANOVONDRONINA",
+        "code": "000365"
+      },
+      {
+        "nom": "ANIVORANO NORD",
+        "code": "000366"
+      },
+      {
+        "nom": "ANKARONGANA",
+        "code": "000367"
+      },
+      {
+        "nom": "ANKETRAKABE",
+        "code": "000368"
+      },
+      {
+        "nom": "ANTANAMITARANA",
+        "code": "000369"
+      },
+      {
+        "nom": "ANTSAHAMPANO",
+        "code": "000370"
+      },
+      {
+        "nom": "ANTSALAKA",
+        "code": "000371"
+      },
+      {
+        "nom": "ANTSOHA",
+        "code": "000372"
+      },
+      {
+        "nom": "BOBAKILANDY",
+        "code": "000373"
+      },
+      {
+        "nom": "BOBASAKOA",
+        "code": "000374"
+      },
+      {
+        "nom": "JOFFRE-VILLE",
+        "code": "000375"
+      },
+      {
+        "nom": "MAHALINA",
+        "code": "000376"
+      },
+      {
+        "nom": "MAHAVANONA",
+        "code": "000377"
+      },
+      {
+        "nom": "MANGAOKA",
+        "code": "000378"
+      },
+      {
+        "nom": "MOSOROLAVA",
+        "code": "000379"
+      },
+      {
+        "nom": "RAMENA",
+        "code": "000380"
+      },
+      {
+        "nom": "SADJOAVATO",
+        "code": "000381"
+      },
+      {
+        "nom": "SAKARAMY",
+        "code": "000382"
+      },
+      {
+        "nom": "ANTSAKOABE",
+        "code": "000383"
+      },
+      {
+        "nom": "AMBOLOBOZOBE",
+        "code": "000384"
+      }
+    ],
+    "NOSY-BE": [
+      {
+        "nom": "CU NOSY-BE",
+        "code": "000385"
+      }
+    ]
+  },
+  "SAVA": {
+    "ANDAPA": [
+      {
+        "nom": "AMBALAMANASY II",
+        "code": "000386"
+      },
+      {
+        "nom": "AMBODIANGEZOKA",
+        "code": "000387"
+      },
+      {
+        "nom": "AMBODIMANGA I",
+        "code": "000388"
+      },
+      {
+        "nom": "ANDAPA",
+        "code": "000389"
+      },
+      {
+        "nom": "ANDRAKATA",
+        "code": "000390"
+      },
+      {
+        "nom": "ANDRANOMENA",
+        "code": "000391"
+      },
+      {
+        "nom": "ANJIALAVABE",
+        "code": "000392"
+      },
+      {
+        "nom": "ANKIAKABE NORD",
+        "code": "000393"
+      },
+      {
+        "nom": "ANOVIARA",
+        "code": "000394"
+      },
+      {
+        "nom": "ANTSAHAMENA",
+        "code": "000395"
+      },
+      {
+        "nom": "BEALAMPONA",
+        "code": "000396"
+      },
+      {
+        "nom": "BELAOKA LOKOHO",
+        "code": "000397"
+      },
+      {
+        "nom": "BELAOKA MAROVATO",
+        "code": "000398"
+      },
+      {
+        "nom": "BETSAKOTSAKO ANDRANOTSARA",
+        "code": "000399"
+      },
+      {
+        "nom": "DOANY",
+        "code": "000400"
+      },
+      {
+        "nom": "MAROVATO",
+        "code": "000401"
+      },
+      {
+        "nom": "MATSOHELY",
+        "code": "000402"
+      },
+      {
+        "nom": "TANANDAVA",
+        "code": "000403"
+      },
+      {
+        "nom": "AMBODIDIVAINA",
+        "code": "000404"
+      },
+      {
+        "nom": "ANDASIBE KOBAHINA",
+        "code": "000405"
+      },
+      {
+        "nom": "AMBALAVELONA",
+        "code": "000406"
+      }
+    ],
+    "ANTALAHA": [
+      {
+        "nom": "AMBALABE",
+        "code": "000407"
+      },
+      {
+        "nom": "AMBINANIFAHO",
+        "code": "000408"
+      },
+      {
+        "nom": "AMBOHITRALANANA",
+        "code": "000409"
+      },
+      {
+        "nom": "AMPAHANA",
+        "code": "000410"
+      },
+      {
+        "nom": "AMPANAVOANA",
+        "code": "000411"
+      },
+      {
+        "nom": "AMPOHIBE",
+        "code": "000412"
+      },
+      {
+        "nom": "ANDAMPY",
+        "code": "000413"
+      },
+      {
+        "nom": "ANTALAHA",
+        "code": "000414"
+      },
+      {
+        "nom": "ANTANANAMBO",
+        "code": "000415"
+      },
+      {
+        "nom": "ANTOMBANA",
+        "code": "000416"
+      },
+      {
+        "nom": "ANTSAHANORO",
+        "code": "000417"
+      },
+      {
+        "nom": "ANTSAMBALAHY",
+        "code": "000418"
+      },
+      {
+        "nom": "LANJARIVO",
+        "code": "000419"
+      },
+      {
+        "nom": "MAROFINARITRA",
+        "code": "000420"
+      },
+      {
+        "nom": "SARAHANDRANO",
+        "code": "000421"
+      },
+      {
+        "nom": "VINANIVAO",
+        "code": "000422"
+      },
+      {
+        "nom": "SAHANTAHA",
+        "code": "000423"
+      },
+      {
+        "nom": "MANAKAMBAHINY ANKAVIA",
+        "code": "000424"
+      }
+    ],
+    "SAMBAVA": [
+      {
+        "nom": "AMBATOAFO",
+        "code": "000425"
+      },
+      {
+        "nom": "AMBOANGIBE",
+        "code": "000426"
+      },
+      {
+        "nom": "AMBODIAMPANA",
+        "code": "000427"
+      },
+      {
+        "nom": "AMBODIVOARA",
+        "code": "000428"
+      },
+      {
+        "nom": "AMBOHIMALAZA",
+        "code": "000429"
+      },
+      {
+        "nom": "AMBOHIMITSINJO",
+        "code": "000430"
+      },
+      {
+        "nom": "ANALAMAHO",
+        "code": "000431"
+      },
+      {
+        "nom": "ANDRAHANJO",
+        "code": "000432"
+      },
+      {
+        "nom": "ANDRATAMARINA",
+        "code": "000433"
+      },
+      {
+        "nom": "ANDREMBONA",
+        "code": "000434"
+      },
+      {
+        "nom": "ANJANGOVERATRA",
+        "code": "000435"
+      },
+      {
+        "nom": "ANJIALAVA",
+        "code": "000436"
+      },
+      {
+        "nom": "ANJINJAOMBY",
+        "code": "000437"
+      },
+      {
+        "nom": "ANTINDRA",
+        "code": "000438"
+      },
+      {
+        "nom": "ANTSAHAVARIBE",
+        "code": "000439"
+      },
+      {
+        "nom": "ANTSAMBAHARO",
+        "code": "000440"
+      },
+      {
+        "nom": "BEMANEVIKA",
+        "code": "000441"
+      },
+      {
+        "nom": "BEVONOTRA",
+        "code": "000442"
+      },
+      {
+        "nom": "FARAHALANA",
+        "code": "000443"
+      },
+      {
+        "nom": "MAROAMBIHY",
+        "code": "000444"
+      },
+      {
+        "nom": "MAROGAONA",
+        "code": "000445"
+      },
+      {
+        "nom": "MAROJALA",
+        "code": "000446"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "000447"
+      },
+      {
+        "nom": "NOSIARINA",
+        "code": "000448"
+      },
+      {
+        "nom": "SAMBAVA",
+        "code": "000449"
+      },
+      {
+        "nom": "TANAMBAO DAOUD",
+        "code": "000450"
+      },
+      {
+        "nom": "ANDAPABE",
+        "code": "000451"
+      },
+      {
+        "nom": "MAHASOA ANTINDRA",
+        "code": "000452"
+      }
+    ],
+    "VOHEMAR": [
+      {
+        "nom": "AMBALASATRANA",
+        "code": "000453"
+      },
+      {
+        "nom": "AMBINANIN ' ANDRAVORY",
+        "code": "000454"
+      },
+      {
+        "nom": "AMBORIALA",
+        "code": "000455"
+      },
+      {
+        "nom": "AMPANEFENA",
+        "code": "000456"
+      },
+      {
+        "nom": "AMPISIKINANA",
+        "code": "000457"
+      },
+      {
+        "nom": "AMPONDRA",
+        "code": "000458"
+      },
+      {
+        "nom": "ANDRAFAINKONA",
+        "code": "000459"
+      },
+      {
+        "nom": "ANDRAVORY",
+        "code": "000460"
+      },
+      {
+        "nom": "AMBODISAMBALAHY",
+        "code": "000461"
+      },
+      {
+        "nom": "ANTSIRABE NORD",
+        "code": "000462"
+      },
+      {
+        "nom": "BELAMBO",
+        "code": "000463"
+      },
+      {
+        "nom": "BOBAKINDRO",
+        "code": "000464"
+      },
+      {
+        "nom": "DARAINA",
+        "code": "000465"
+      },
+      {
+        "nom": "FANAMBANA",
+        "code": "000466"
+      },
+      {
+        "nom": "MAROMOKOTRA LOKY",
+        "code": "000467"
+      },
+      {
+        "nom": "MILANOA",
+        "code": "000468"
+      },
+      {
+        "nom": "NOSIBE",
+        "code": "000469"
+      },
+      {
+        "nom": "TSARABARIA",
+        "code": "000470"
+      },
+      {
+        "nom": "VOHEMAR",
+        "code": "000471"
+      }
+    ]
+  },
+  "AMORON'I MANIA": {
+    "AMBATOFINANDRAHANA": [
+      {
+        "nom": "AMBATOFINANDRAHANA",
+        "code": "000472"
+      },
+      {
+        "nom": "AMBATOMIFANONGOA",
+        "code": "000473"
+      },
+      {
+        "nom": "AMBONDROMISOTRA",
+        "code": "000474"
+      },
+      {
+        "nom": "AMBOROMPOTSY",
+        "code": "000475"
+      },
+      {
+        "nom": "FENOARIVO",
+        "code": "000476"
+      },
+      {
+        "nom": "ITREMO",
+        "code": "000477"
+      },
+      {
+        "nom": "MANDROSONORO",
+        "code": "000478"
+      },
+      {
+        "nom": "MANGATABOAHANGY",
+        "code": "000479"
+      },
+      {
+        "nom": "SOAVINA",
+        "code": "000480"
+      }
+    ],
+    "AMBOSITRA": [
+      {
+        "nom": "ALAKAMISY AMBOHIJATO",
+        "code": "000481"
+      },
+      {
+        "nom": "AMBALAMANAKANA",
+        "code": "000482"
+      },
+      {
+        "nom": "AMBATOFITORAHANA",
+        "code": "000483"
+      },
+      {
+        "nom": "AMBINANINDRANO",
+        "code": "000484"
+      },
+      {
+        "nom": "AMBOHIMITOMBO I",
+        "code": "000485"
+      },
+      {
+        "nom": "AMBOHIMITOMBO II",
+        "code": "000486"
+      },
+      {
+        "nom": "AMBOSITRA",
+        "code": "000487"
+      },
+      {
+        "nom": "AMBOSITRA BANLIEUE",
+        "code": "000488"
+      },
+      {
+        "nom": "ANDINA",
+        "code": "000489"
+      },
+      {
+        "nom": "ANKAZOAMBO",
+        "code": "000490"
+      },
+      {
+        "nom": "ANTOETRA",
+        "code": "000491"
+      },
+      {
+        "nom": "FAHIZAY",
+        "code": "000492"
+      },
+      {
+        "nom": "IHADILANANA AMBOHINAMBOA",
+        "code": "000493"
+      },
+      {
+        "nom": "ILAKA CENTRE",
+        "code": "000494"
+      },
+      {
+        "nom": "IMERINA IMADY",
+        "code": "000495"
+      },
+      {
+        "nom": "IVATO CENTRE",
+        "code": "000496"
+      },
+      {
+        "nom": "IVONY MIARAMIASA",
+        "code": "000497"
+      },
+      {
+        "nom": "KIANJANDRAKEFINA",
+        "code": "000498"
+      },
+      {
+        "nom": "MAHAZINA AMBOHIPIERENANA",
+        "code": "000499"
+      },
+      {
+        "nom": "MAROSOA",
+        "code": "000500"
+      },
+      {
+        "nom": "SAHATSIHO AMBOHIMANJAKA",
+        "code": "000501"
+      },
+      {
+        "nom": "TSARASAOTRA",
+        "code": "000502"
+      },
+      {
+        "nom": "VOHIDAHY",
+        "code": "000503"
+      },
+      {
+        "nom": "AMBOHIPERIVOANA",
+        "code": "000504"
+      },
+      {
+        "nom": "ANKAZOTSARARAVINA",
+        "code": "000505"
+      }
+    ],
+    "FANDRIANA": [
+      {
+        "nom": "ALAKAMISY AMBOHIMAHAZO",
+        "code": "000506"
+      },
+      {
+        "nom": "ANKARINORO",
+        "code": "000507"
+      },
+      {
+        "nom": "BETSIMISOTRA",
+        "code": "000508"
+      },
+      {
+        "nom": "FANDRIANA",
+        "code": "000509"
+      },
+      {
+        "nom": "FIADANANA",
+        "code": "000510"
+      },
+      {
+        "nom": "IMITO",
+        "code": "000511"
+      },
+      {
+        "nom": "MAHAZOARIVO",
+        "code": "000512"
+      },
+      {
+        "nom": "MIARINAVARATRA",
+        "code": "000513"
+      },
+      {
+        "nom": "MILAMAINA",
+        "code": "000514"
+      },
+      {
+        "nom": "SAHAMADIO FISAKANA",
+        "code": "000515"
+      },
+      {
+        "nom": "SANDRANDAHY",
+        "code": "000516"
+      },
+      {
+        "nom": "TATAMALAZA",
+        "code": "000517"
+      },
+      {
+        "nom": "TSARAZAZA",
+        "code": "000518"
+      },
+      {
+        "nom": "SOANAKAMBANA",
+        "code": "000519"
+      },
+      {
+        "nom": "ISANDRANDAHY AMBONY",
+        "code": "000520"
+      }
+    ],
+    "MANANDRIANA": [
+      {
+        "nom": "AMBATOMARINA",
+        "code": "000521"
+      },
+      {
+        "nom": "AMBOHIMAHAZO",
+        "code": "000522"
+      },
+      {
+        "nom": "AMBOHIMILANJA",
+        "code": "000523"
+      },
+      {
+        "nom": "AMBOHIPO",
+        "code": "000524"
+      },
+      {
+        "nom": "AMBOVOMBE CENTRE",
+        "code": "000525"
+      },
+      {
+        "nom": "ANDAKATANY",
+        "code": "000526"
+      },
+      {
+        "nom": "ANJOMA NANDIHIZANA",
+        "code": "000527"
+      },
+      {
+        "nom": "ANJOMAN ' ANKONA",
+        "code": "000528"
+      },
+      {
+        "nom": "TALATA VOHIMENA",
+        "code": "000529"
+      },
+      {
+        "nom": "VINANY ANDAKATANIKELY",
+        "code": "000530"
+      },
+      {
+        "nom": "SOATANANA",
+        "code": "000531"
+      },
+      {
+        "nom": "ILANJANA",
+        "code": "000532"
+      }
+    ]
+  },
+  "ATSIMO-ATSINANANA": {
+    "BEFOTAKA ATSIMO": [
+      {
+        "nom": "ANTANINARENINA",
+        "code": "000533"
+      },
+      {
+        "nom": "ANTONDABE",
+        "code": "000534"
+      },
+      {
+        "nom": "BEFOTAKA SUD",
+        "code": "000535"
+      },
+      {
+        "nom": "BEHARENA",
+        "code": "000536"
+      },
+      {
+        "nom": "BEKOFAFA SUD",
+        "code": "000537"
+      },
+      {
+        "nom": "MAROVITSIKA SUD",
+        "code": "000538"
+      },
+      {
+        "nom": "RANOTSARA SUD",
+        "code": "000539"
+      },
+      {
+        "nom": "ANTOKOBORITELO",
+        "code": "000540"
+      },
+      {
+        "nom": "INOSY",
+        "code": "000541"
+      }
+    ],
+    "FARAFANGANA": [
+      {
+        "nom": "AMBALATANY",
+        "code": "000542"
+      },
+      {
+        "nom": "AMBALAVATO NORD",
+        "code": "000543"
+      },
+      {
+        "nom": "AMBALAVATO/ANTEVATO",
+        "code": "000544"
+      },
+      {
+        "nom": "AMBOHIGOGO",
+        "code": "000545"
+      },
+      {
+        "nom": "AMBOHIMANDROSO",
+        "code": "000546"
+      },
+      {
+        "nom": "AMPOROFORO",
+        "code": "000547"
+      },
+      {
+        "nom": "ANKARANA MIRAIHINA",
+        "code": "000548"
+      },
+      {
+        "nom": "ANOSIVELO",
+        "code": "000549"
+      },
+      {
+        "nom": "ANOSY TSARARAFA",
+        "code": "000550"
+      },
+      {
+        "nom": "ANTSERANAMBE",
+        "code": "000551"
+      },
+      {
+        "nom": "BEVOAY BERETRA",
+        "code": "000552"
+      },
+      {
+        "nom": "EFATSY ANANDROZA",
+        "code": "000553"
+      },
+      {
+        "nom": "ETROTROKA",
+        "code": "000554"
+      },
+      {
+        "nom": "EVATO",
+        "code": "000555"
+      },
+      {
+        "nom": "FARAFANGANA",
+        "code": "000556"
+      },
+      {
+        "nom": "FENOARIVO",
+        "code": "000557"
+      },
+      {
+        "nom": "IABOHAZO",
+        "code": "000558"
+      },
+      {
+        "nom": "IHOROMBE",
+        "code": "000559"
+      },
+      {
+        "nom": "IVANDRIKA",
+        "code": "000560"
+      },
+      {
+        "nom": "MAHABO MANANIVO",
+        "code": "000561"
+      },
+      {
+        "nom": "MAHAFASA CENTRE",
+        "code": "000562"
+      },
+      {
+        "nom": "MAHAVELO",
+        "code": "000563"
+      },
+      {
+        "nom": "MAHERIRATY",
+        "code": "000564"
+      },
+      {
+        "nom": "MANAMBOTRA SUD",
+        "code": "000565"
+      },
+      {
+        "nom": "MAROVANDRIKA",
+        "code": "000566"
+      },
+      {
+        "nom": "NAMOHORA IABORANO",
+        "code": "000567"
+      },
+      {
+        "nom": "SAHAMADIO",
+        "code": "000568"
+      },
+      {
+        "nom": "TANGAINONY",
+        "code": "000569"
+      },
+      {
+        "nom": "TOVONA",
+        "code": "000570"
+      },
+      {
+        "nom": "VOHILENGO",
+        "code": "000571"
+      },
+      {
+        "nom": "VOHIMASY",
+        "code": "000572"
+      },
+      {
+        "nom": "VOHITROMBY",
+        "code": "000573"
+      },
+      {
+        "nom": "VOHILAVAN'I MANAMPATRANA",
+        "code": "000574"
+      }
+    ],
+    "MIDONGY SUD": [
+      {
+        "nom": "ANDRANOLALINA",
+        "code": "000575"
+      },
+      {
+        "nom": "ANKAZOVELO",
+        "code": "000576"
+      },
+      {
+        "nom": "IVONDRO EX-LAVARATY",
+        "code": "000577"
+      },
+      {
+        "nom": "NOSIFENO",
+        "code": "000578"
+      },
+      {
+        "nom": "SOAKIBANY",
+        "code": "000579"
+      },
+      {
+        "nom": "ZARA EX-MALIORANO",
+        "code": "000580"
+      },
+      {
+        "nom": "BEVAHO",
+        "code": "000581"
+      }
+    ],
+    "VANGAINDRANO": [
+      {
+        "nom": "AMBATOLAVA",
+        "code": "000582"
+      },
+      {
+        "nom": "AMBONGO",
+        "code": "000583"
+      },
+      {
+        "nom": "AMPARIHY EST",
+        "code": "000584"
+      },
+      {
+        "nom": "AMPASIMALEMY",
+        "code": "000585"
+      },
+      {
+        "nom": "AMPATAKA",
+        "code": "000586"
+      },
+      {
+        "nom": "ANILOBE",
+        "code": "000587"
+      },
+      {
+        "nom": "BEKARAOKY",
+        "code": "000588"
+      },
+      {
+        "nom": "BEMA",
+        "code": "000589"
+      },
+      {
+        "nom": "BEVATA",
+        "code": "000590"
+      },
+      {
+        "nom": "VOHIPAHO",
+        "code": "000591"
+      },
+      {
+        "nom": "FENOAMBANY",
+        "code": "000592"
+      },
+      {
+        "nom": "IARA",
+        "code": "000593"
+      },
+      {
+        "nom": "ISAHARA",
+        "code": "000594"
+      },
+      {
+        "nom": "KARIMBARY",
+        "code": "000595"
+      },
+      {
+        "nom": "LOHAFARY",
+        "code": "000596"
+      },
+      {
+        "nom": "LOPARY",
+        "code": "000597"
+      },
+      {
+        "nom": "MANAMBONDRO",
+        "code": "000598"
+      },
+      {
+        "nom": "MAROKIBO",
+        "code": "000599"
+      },
+      {
+        "nom": "MASIANAKA",
+        "code": "000600"
+      },
+      {
+        "nom": "MATANGA",
+        "code": "000601"
+      },
+      {
+        "nom": "RANOMENA",
+        "code": "000602"
+      },
+      {
+        "nom": "SANDRAVINANY",
+        "code": "000603"
+      },
+      {
+        "nom": "SOAMANOVA",
+        "code": "000604"
+      },
+      {
+        "nom": "TSIANOFANA",
+        "code": "000605"
+      },
+      {
+        "nom": "TSIATELY",
+        "code": "000606"
+      },
+      {
+        "nom": "VANGAINDRANO",
+        "code": "000607"
+      },
+      {
+        "nom": "VATANATO",
+        "code": "000608"
+      },
+      {
+        "nom": "VOHIMALAZA",
+        "code": "000609"
+      },
+      {
+        "nom": "VOHITRAMBO",
+        "code": "000610"
+      },
+      {
+        "nom": "MAHABE",
+        "code": "000611"
+      },
+      {
+        "nom": "FONILAZA",
+        "code": "000612"
+      }
+    ],
+    "VONDROZO": [
+      {
+        "nom": "AMBOHIMANA",
+        "code": "000613"
+      },
+      {
+        "nom": "ANANDRAVY",
+        "code": "000614"
+      },
+      {
+        "nom": "ANDAKANA",
+        "code": "000615"
+      },
+      {
+        "nom": "ANTOKONALA",
+        "code": "000616"
+      },
+      {
+        "nom": "IAMONTA",
+        "code": "000617"
+      },
+      {
+        "nom": "IVATO",
+        "code": "000618"
+      },
+      {
+        "nom": "KARIANGA",
+        "code": "000619"
+      },
+      {
+        "nom": "MAHATSINJO",
+        "code": "000620"
+      },
+      {
+        "nom": "MAHAVELO",
+        "code": "000621"
+      },
+      {
+        "nom": "MAHAZOARIVO",
+        "code": "000622"
+      },
+      {
+        "nom": "MANAMBIDALA",
+        "code": "000623"
+      },
+      {
+        "nom": "MANATO",
+        "code": "000624"
+      },
+      {
+        "nom": "MOROTEZA",
+        "code": "000625"
+      },
+      {
+        "nom": "VOHIBOREKA",
+        "code": "000626"
+      },
+      {
+        "nom": "VOHIMARY",
+        "code": "000627"
+      },
+      {
+        "nom": "VONDROZO",
+        "code": "000628"
+      },
+      {
+        "nom": "AMBODIRANO",
+        "code": "000629"
+      },
+      {
+        "nom": "ANDOHARANO",
+        "code": "000630"
+      }
+    ]
+  },
+  "HAUTE MATSIATRA": {
+    "AMBALAVAO": [
+      {
+        "nom": "AMBALAVAO",
+        "code": "000631"
+      },
+      {
+        "nom": "AMBINANINDOVOKA",
+        "code": "000632"
+      },
+      {
+        "nom": "AMBINANIROA",
+        "code": "000633"
+      },
+      {
+        "nom": "AMBOHIMAHAMASINA",
+        "code": "000634"
+      },
+      {
+        "nom": "AMBOHIMANDROSO",
+        "code": "000635"
+      },
+      {
+        "nom": "ANDRAINJATO",
+        "code": "000636"
+      },
+      {
+        "nom": "ANJOMA",
+        "code": "000637"
+      },
+      {
+        "nom": "ANKARAMENA",
+        "code": "000638"
+      },
+      {
+        "nom": "BESOA",
+        "code": "000639"
+      },
+      {
+        "nom": "FENOARIVO",
+        "code": "000640"
+      },
+      {
+        "nom": "IARINTSENA",
+        "code": "000641"
+      },
+      {
+        "nom": "KIRANO",
+        "code": "000642"
+      },
+      {
+        "nom": "MAHAZONY",
+        "code": "000643"
+      },
+      {
+        "nom": "MANAMISOA",
+        "code": "000644"
+      },
+      {
+        "nom": "MIARINARIVO",
+        "code": "000645"
+      },
+      {
+        "nom": "SENDRISOA",
+        "code": "000646"
+      },
+      {
+        "nom": "VOHITSAOKA",
+        "code": "000647"
+      },
+      {
+        "nom": "NAMOLY",
+        "code": "000648"
+      },
+      {
+        "nom": "VOLAMENA",
+        "code": "000649"
+      }
+    ],
+    "AMBOHIMAHASOA": [
+      {
+        "nom": "AMBALAKINDRESY",
+        "code": "000650"
+      },
+      {
+        "nom": "AMBATOSOA",
+        "code": "000651"
+      },
+      {
+        "nom": "AMBOHIMAHASOA",
+        "code": "000652"
+      },
+      {
+        "nom": "AMBOHINAMBOARINA",
+        "code": "000653"
+      },
+      {
+        "nom": "AMPITANA",
+        "code": "000654"
+      },
+      {
+        "nom": "ANKAFINA TSARAFIDY",
+        "code": "000655"
+      },
+      {
+        "nom": "ANKERANA",
+        "code": "000656"
+      },
+      {
+        "nom": "BEFETA",
+        "code": "000657"
+      },
+      {
+        "nom": "CAMP ROBIN",
+        "code": "000658"
+      },
+      {
+        "nom": "FIADANANA",
+        "code": "000659"
+      },
+      {
+        "nom": "ISAKA",
+        "code": "000660"
+      },
+      {
+        "nom": "IKALALAO",
+        "code": "000661"
+      },
+      {
+        "nom": "MANANDROY",
+        "code": "000662"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "000663"
+      },
+      {
+        "nom": "SAHATONA",
+        "code": "000664"
+      },
+      {
+        "nom": "SAHAVE",
+        "code": "000665"
+      },
+      {
+        "nom": "VOHIPOSA",
+        "code": "000666"
+      },
+      {
+        "nom": "VOHITRARIVO",
+        "code": "000667"
+      }
+    ],
+    "FIANARANTSOA": [
+      {
+        "nom": "CU FIANARANTSOA",
+        "code": "000668"
+      }
+    ],
+    "ISANDRA": [
+      {
+        "nom": "AMBALAMIDERA II",
+        "code": "000669"
+      },
+      {
+        "nom": "AMBONDRONA",
+        "code": "000670"
+      },
+      {
+        "nom": "ANDOHARANOMAITSO",
+        "code": "000671"
+      },
+      {
+        "nom": "ANJOMA ITSARA",
+        "code": "000672"
+      },
+      {
+        "nom": "ANKARINARIVO MANIRISOA",
+        "code": "000673"
+      },
+      {
+        "nom": "FANJAKANA",
+        "code": "000674"
+      },
+      {
+        "nom": "IAVINOMBY VOHIBOLA",
+        "code": "000675"
+      },
+      {
+        "nom": "ISORANA",
+        "code": "000676"
+      },
+      {
+        "nom": "MAHAZOARIVO",
+        "code": "000677"
+      },
+      {
+        "nom": "NASANDRATRONY",
+        "code": "000678"
+      },
+      {
+        "nom": "SOATANANA",
+        "code": "000679"
+      },
+      {
+        "nom": "ANDREAMALAMA",
+        "code": "000680"
+      },
+      {
+        "nom": "AMBALAMIDERA AMBOHIMANA",
+        "code": "000681"
+      }
+    ],
+    "IKALAMAVONY": [
+      {
+        "nom": "AMBATOMAINTY",
+        "code": "000682"
+      },
+      {
+        "nom": "FITAMPITO",
+        "code": "000683"
+      },
+      {
+        "nom": "IKALAMAVONY",
+        "code": "000684"
+      },
+      {
+        "nom": "MANGIDY",
+        "code": "000685"
+      },
+      {
+        "nom": "TANAMARINA SAKAY",
+        "code": "000686"
+      },
+      {
+        "nom": "SOLILA",
+        "code": "000687"
+      },
+      {
+        "nom": "TANAMARINA BEKISOPA",
+        "code": "000688"
+      },
+      {
+        "nom": "TSITONDROINA",
+        "code": "000689"
+      }
+    ],
+    "VOHIBATO": [
+      {
+        "nom": "ALAKAMISY ITENINA",
+        "code": "000690"
+      },
+      {
+        "nom": "ANDRANOMIDITRA",
+        "code": "000691"
+      },
+      {
+        "nom": "ANDRANOVORIVATO",
+        "code": "000692"
+      },
+      {
+        "nom": "MAHADITRA",
+        "code": "000693"
+      },
+      {
+        "nom": "MAHASOABE",
+        "code": "000694"
+      },
+      {
+        "nom": "MANEVA",
+        "code": "000695"
+      },
+      {
+        "nom": "SOAINDRANA",
+        "code": "000696"
+      },
+      {
+        "nom": "TALATA AMPANO",
+        "code": "000697"
+      },
+      {
+        "nom": "VINANITELO",
+        "code": "000698"
+      },
+      {
+        "nom": "VOHIMARINA",
+        "code": "000699"
+      },
+      {
+        "nom": "VOHITRAFENO",
+        "code": "000700"
+      },
+      {
+        "nom": "IHAZOARA",
+        "code": "000701"
+      },
+      {
+        "nom": "ANKAROMALAZA MIFANASOA",
+        "code": "000702"
+      },
+      {
+        "nom": "VOHIBATO OUEST",
+        "code": "000703"
+      },
+      {
+        "nom": "LAMOSINA",
+        "code": "000704"
+      },
+      {
+        "nom": "ANJANOMANONA TSIMIAVAKA",
+        "code": "000705"
+      }
+    ],
+    "LALANGINA": [
+      {
+        "nom": "ALAKAMISY AMBOHIMAHA",
+        "code": "000706"
+      },
+      {
+        "nom": "ALATSINAINY IALAMARINA",
+        "code": "000707"
+      },
+      {
+        "nom": "AMBALAKELY",
+        "code": "000708"
+      },
+      {
+        "nom": "AMBALAMAHASOA",
+        "code": "000709"
+      },
+      {
+        "nom": "ANDRAINJATO CENTRE",
+        "code": "000710"
+      },
+      {
+        "nom": "ANDRAINJATO EST",
+        "code": "000711"
+      },
+      {
+        "nom": "ANDROY",
+        "code": "000712"
+      },
+      {
+        "nom": "FANDRANDAVA",
+        "code": "000713"
+      },
+      {
+        "nom": "IALANANINDRO",
+        "code": "000714"
+      },
+      {
+        "nom": "IVOAMBA",
+        "code": "000715"
+      },
+      {
+        "nom": "MAHATSINJONY",
+        "code": "000716"
+      },
+      {
+        "nom": "SAHAMBAVY",
+        "code": "000717"
+      },
+      {
+        "nom": "TAINDAMBO",
+        "code": "000718"
+      },
+      {
+        "nom": "SAHAFATA",
+        "code": "000719"
+      },
+      {
+        "nom": "AMPATSY AMPANGABE",
+        "code": "000720"
+      },
+      {
+        "nom": "VINANINORO ANDREFANA",
+        "code": "000721"
+      }
+    ]
+  },
+  "IHOROMBE": {
+    "IAKORA": [
+      {
+        "nom": "BEGOGO",
+        "code": "000722"
+      },
+      {
+        "nom": "IAKORA",
+        "code": "000723"
+      },
+      {
+        "nom": "RANOTSARA NORD",
+        "code": "000724"
+      },
+      {
+        "nom": "ANDRANOMBAO",
+        "code": "000725"
+      },
+      {
+        "nom": "VOLAMBITA",
+        "code": "000726"
+      }
+    ],
+    "IHOSY": [
+      {
+        "nom": "AMBATOLAHY",
+        "code": "000727"
+      },
+      {
+        "nom": "AMBIA",
+        "code": "000728"
+      },
+      {
+        "nom": "ANALALIRY",
+        "code": "000729"
+      },
+      {
+        "nom": "ANALAVOKA",
+        "code": "000730"
+      },
+      {
+        "nom": "ANDIOLAVA",
+        "code": "000731"
+      },
+      {
+        "nom": "ANKILY",
+        "code": "000732"
+      },
+      {
+        "nom": "ANTSOHA",
+        "code": "000733"
+      },
+      {
+        "nom": "IHOSY",
+        "code": "000734"
+      },
+      {
+        "nom": "ILAKAKA-BE",
+        "code": "000735"
+      },
+      {
+        "nom": "MENAMATY-ILOTO",
+        "code": "000736"
+      },
+      {
+        "nom": "IRINA",
+        "code": "000737"
+      },
+      {
+        "nom": "MAHASOA",
+        "code": "000738"
+      },
+      {
+        "nom": "RANOHIRA",
+        "code": "000739"
+      },
+      {
+        "nom": "SAHAMBANO",
+        "code": "000740"
+      },
+      {
+        "nom": "SAKALALINA",
+        "code": "000741"
+      },
+      {
+        "nom": "SATROKALA",
+        "code": "000742"
+      },
+      {
+        "nom": "SOAMATASY",
+        "code": "000743"
+      },
+      {
+        "nom": "TOLOHOMIADY",
+        "code": "000744"
+      },
+      {
+        "nom": "ZAZAFOTSY",
+        "code": "000745"
+      },
+      {
+        "nom": "ANDOHAN'ILAKAKA",
+        "code": "000746"
+      }
+    ],
+    "IVOHIBE": [
+      {
+        "nom": "ANTAMBOHOBE",
+        "code": "000747"
+      },
+      {
+        "nom": "IVOHIBE",
+        "code": "000748"
+      },
+      {
+        "nom": "IVONGO",
+        "code": "000749"
+      },
+      {
+        "nom": "MAROPAIKA",
+        "code": "000750"
+      },
+      {
+        "nom": "KOTIPA",
+        "code": "000751"
+      },
+      {
+        "nom": "ANTARAMENA",
+        "code": "000752"
+      }
+    ]
+  },
+  "FITOVINANY": {
+    "IKONGO": [
+      {
+        "nom": "AMBATOFOTSY",
+        "code": "000753"
+      },
+      {
+        "nom": "AMBINANITROMBY",
+        "code": "000754"
+      },
+      {
+        "nom": "AMBOHIMISAFY",
+        "code": "000755"
+      },
+      {
+        "nom": "AMBOLOMADINIKA",
+        "code": "000756"
+      },
+      {
+        "nom": "ANKARIMBELO",
+        "code": "000757"
+      },
+      {
+        "nom": "ANTODINGA",
+        "code": "000758"
+      },
+      {
+        "nom": "BELEMOKA",
+        "code": "000759"
+      },
+      {
+        "nom": "IFANIREA",
+        "code": "000760"
+      },
+      {
+        "nom": "IKONGO",
+        "code": "000761"
+      },
+      {
+        "nom": "KALAFOTSY",
+        "code": "000762"
+      },
+      {
+        "nom": "MANAMPATRANA",
+        "code": "000763"
+      },
+      {
+        "nom": "MAROMIANDRA",
+        "code": "000764"
+      },
+      {
+        "nom": "SAHALANONA",
+        "code": "000765"
+      },
+      {
+        "nom": "TANAKAMBANA",
+        "code": "000766"
+      },
+      {
+        "nom": "TOLONGOINA",
+        "code": "000767"
+      },
+      {
+        "nom": "TSIFENOKATAKA",
+        "code": "000768"
+      },
+      {
+        "nom": "ANDEFAMPONY",
+        "code": "000769"
+      }
+    ],
+    "MANAKARA": [
+      {
+        "nom": "AMBAHATRAZO",
+        "code": "000770"
+      },
+      {
+        "nom": "AMBAHIVE",
+        "code": "000771"
+      },
+      {
+        "nom": "AMBALAROKA",
+        "code": "000772"
+      },
+      {
+        "nom": "AMBALAVERO",
+        "code": "000773"
+      },
+      {
+        "nom": "AMBANDRIKA",
+        "code": "000774"
+      },
+      {
+        "nom": "AMBILA",
+        "code": "000775"
+      },
+      {
+        "nom": "AMBOANJO",
+        "code": "000776"
+      },
+      {
+        "nom": "AMBOHITSARA-M",
+        "code": "000777"
+      },
+      {
+        "nom": "AMBORONDRA",
+        "code": "000778"
+      },
+      {
+        "nom": "AMBOTAKA",
+        "code": "000779"
+      },
+      {
+        "nom": "AMPASIMANJEVA",
+        "code": "000780"
+      },
+      {
+        "nom": "AMPASIMBORAKA",
+        "code": "000781"
+      },
+      {
+        "nom": "AMPASIPOTSY SUD",
+        "code": "000782"
+      },
+      {
+        "nom": "ANALAVORY",
+        "code": "000783"
+      },
+      {
+        "nom": "ANOROMBATO",
+        "code": "000784"
+      },
+      {
+        "nom": "ANTEZA",
+        "code": "000785"
+      },
+      {
+        "nom": "BEKATRA",
+        "code": "000786"
+      },
+      {
+        "nom": "BETAMPONA",
+        "code": "000787"
+      },
+      {
+        "nom": "FENOMBY",
+        "code": "000788"
+      },
+      {
+        "nom": "KIANJANOMBY",
+        "code": "000789"
+      },
+      {
+        "nom": "LOKOMBY",
+        "code": "000790"
+      },
+      {
+        "nom": "MAHABAKO",
+        "code": "000791"
+      },
+      {
+        "nom": "MAHAMAIBE",
+        "code": "000792"
+      },
+      {
+        "nom": "MANAKARA",
+        "code": "000793"
+      },
+      {
+        "nom": "MANGATSIOTRA",
+        "code": "000794"
+      },
+      {
+        "nom": "MAROFARIHY",
+        "code": "000795"
+      },
+      {
+        "nom": "MAVORANO",
+        "code": "000796"
+      },
+      {
+        "nom": "MITANTY",
+        "code": "000797"
+      },
+      {
+        "nom": "MIZILO GARE",
+        "code": "000798"
+      },
+      {
+        "nom": "NIHAONANA AMBANY",
+        "code": "000799"
+      },
+      {
+        "nom": "NOSIALA",
+        "code": "000800"
+      },
+      {
+        "nom": "ONILAHY",
+        "code": "000801"
+      },
+      {
+        "nom": "SAHANAMBOHITRA",
+        "code": "000802"
+      },
+      {
+        "nom": "SAHAREFO",
+        "code": "000803"
+      },
+      {
+        "nom": "SAHASINAKA",
+        "code": "000804"
+      },
+      {
+        "nom": "SAKOANA",
+        "code": "000805"
+      },
+      {
+        "nom": "SOROMBO",
+        "code": "000806"
+      },
+      {
+        "nom": "TATAHO",
+        "code": "000807"
+      },
+      {
+        "nom": "VATANA",
+        "code": "000808"
+      },
+      {
+        "nom": "VINANITELO",
+        "code": "000809"
+      },
+      {
+        "nom": "VOHILAVA SAHASONDRY",
+        "code": "000810"
+      },
+      {
+        "nom": "VOHIMANITRA",
+        "code": "000811"
+      },
+      {
+        "nom": "VOHIMASINA NORD",
+        "code": "000812"
+      },
+      {
+        "nom": "VOHIMASINA SUD",
+        "code": "000813"
+      },
+      {
+        "nom": "VOHIMASY",
+        "code": "000814"
+      },
+      {
+        "nom": "AMBOHITROVA",
+        "code": "000815"
+      },
+      {
+        "nom": "MANJARIVO",
+        "code": "000816"
+      },
+      {
+        "nom": "NAMORONA",
+        "code": "000817"
+      }
+    ],
+    "VOHIPENO": [
+      {
+        "nom": "ANDEMAKA",
+        "code": "000818"
+      },
+      {
+        "nom": "ANKARIMBARY",
+        "code": "000819"
+      },
+      {
+        "nom": "ANOLOKA",
+        "code": "000820"
+      },
+      {
+        "nom": "ANTANANABO",
+        "code": "000821"
+      },
+      {
+        "nom": "IFATSY",
+        "code": "000822"
+      },
+      {
+        "nom": "ILAKATRA",
+        "code": "000823"
+      },
+      {
+        "nom": "IVATO",
+        "code": "000824"
+      },
+      {
+        "nom": "LANIVO",
+        "code": "000825"
+      },
+      {
+        "nom": "MAHABO",
+        "code": "000826"
+      },
+      {
+        "nom": "MAHASOABE",
+        "code": "000827"
+      },
+      {
+        "nom": "MAHAZOARIVO",
+        "code": "000828"
+      },
+      {
+        "nom": "NATO",
+        "code": "000829"
+      },
+      {
+        "nom": "ONJATSY",
+        "code": "000830"
+      },
+      {
+        "nom": "SAHALAVA",
+        "code": "000831"
+      },
+      {
+        "nom": "SAVANA",
+        "code": "000832"
+      },
+      {
+        "nom": "VOHILANY",
+        "code": "000833"
+      },
+      {
+        "nom": "VOHINDAVA",
+        "code": "000834"
+      },
+      {
+        "nom": "VOHIPENO",
+        "code": "000835"
+      },
+      {
+        "nom": "VOHITRINDRY",
+        "code": "000836"
+      },
+      {
+        "nom": "ZAFINDRAFADY",
+        "code": "000837"
+      },
+      {
+        "nom": "AMBOROBE",
+        "code": "000838"
+      }
+    ]
+  },
+  "VATOVAVY": {
+    "IFANADIANA": [
+      {
+        "nom": "AMBOHIMANGA SUD",
+        "code": "000839"
+      },
+      {
+        "nom": "AMBOHIMIERA",
+        "code": "000840"
+      },
+      {
+        "nom": "ANALAMPASINA",
+        "code": "000841"
+      },
+      {
+        "nom": "ANDRORANGAVOLA",
+        "code": "000842"
+      },
+      {
+        "nom": "ANTARETRA",
+        "code": "000843"
+      },
+      {
+        "nom": "ANTSINDRA",
+        "code": "000844"
+      },
+      {
+        "nom": "FASINTSARA",
+        "code": "000845"
+      },
+      {
+        "nom": "IFANADIANA",
+        "code": "000846"
+      },
+      {
+        "nom": "KELILALINA",
+        "code": "000847"
+      },
+      {
+        "nom": "MAROHARATRA",
+        "code": "000848"
+      },
+      {
+        "nom": "MAROTOKO",
+        "code": "000849"
+      },
+      {
+        "nom": "RANOMAFANA",
+        "code": "000850"
+      },
+      {
+        "nom": "TSARATANANA",
+        "code": "000851"
+      },
+      {
+        "nom": "AMPASINAMBO",
+        "code": "000852"
+      },
+      {
+        "nom": "AMBIABE",
+        "code": "000853"
+      }
+    ],
+    "MANANJARY": [
+      {
+        "nom": "AMBALAHOSY NORD",
+        "code": "000854"
+      },
+      {
+        "nom": "AMBODINONOKA",
+        "code": "000855"
+      },
+      {
+        "nom": "AMBOHIMIARINA II",
+        "code": "000856"
+      },
+      {
+        "nom": "AMBOHINIHAONANA",
+        "code": "000857"
+      },
+      {
+        "nom": "AMBOHITSARA EST",
+        "code": "000858"
+      },
+      {
+        "nom": "ANDONABE",
+        "code": "000859"
+      },
+      {
+        "nom": "ANDRANAMBOLAVA",
+        "code": "000860"
+      },
+      {
+        "nom": "ANDRANOMAVO",
+        "code": "000861"
+      },
+      {
+        "nom": "ANKATAFANA",
+        "code": "000862"
+      },
+      {
+        "nom": "ANOSIMPARIHY",
+        "code": "000863"
+      },
+      {
+        "nom": "ANTARETRA",
+        "code": "000864"
+      },
+      {
+        "nom": "ANTSENAVOLO",
+        "code": "000865"
+      },
+      {
+        "nom": "KIANJAVATO",
+        "code": "000866"
+      },
+      {
+        "nom": "MAHATSARA IEFAKA",
+        "code": "000867"
+      },
+      {
+        "nom": "MAHATSARA SUD",
+        "code": "000868"
+      },
+      {
+        "nom": "MAHAVOKY NORD",
+        "code": "000869"
+      },
+      {
+        "nom": "MAHELA",
+        "code": "000870"
+      },
+      {
+        "nom": "MANAKANA NORD",
+        "code": "000871"
+      },
+      {
+        "nom": "MANANJARY",
+        "code": "000872"
+      },
+      {
+        "nom": "MAROFOTOTRA",
+        "code": "000873"
+      },
+      {
+        "nom": "MAROKARIMA",
+        "code": "000874"
+      },
+      {
+        "nom": "MAROSANGY",
+        "code": "000875"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "000876"
+      },
+      {
+        "nom": "SANDROHY",
+        "code": "000877"
+      },
+      {
+        "nom": "TSARAVARY",
+        "code": "000878"
+      },
+      {
+        "nom": "TSIATOSIKA",
+        "code": "000879"
+      },
+      {
+        "nom": "VATOHANDRINA",
+        "code": "000880"
+      },
+      {
+        "nom": "VOHILAVA",
+        "code": "000881"
+      },
+      {
+        "nom": "TSARAHAFATRA",
+        "code": "000882"
+      },
+      {
+        "nom": "MAROFODY",
+        "code": "000883"
+      }
+    ],
+    "NOSY VARIKA": [
+      {
+        "nom": "AMBAHY",
+        "code": "000884"
+      },
+      {
+        "nom": "AMBAKOBE",
+        "code": "000885"
+      },
+      {
+        "nom": "AMBODIARA",
+        "code": "000886"
+      },
+      {
+        "nom": "AMBODILAFA",
+        "code": "000887"
+      },
+      {
+        "nom": "AMBODIRIAN'I SAHAFARY",
+        "code": "000888"
+      },
+      {
+        "nom": "AMPASINAMBO",
+        "code": "000889"
+      },
+      {
+        "nom": "ANDARA",
+        "code": "000890"
+      },
+      {
+        "nom": "ANDRORANGAVOLA",
+        "code": "000891"
+      },
+      {
+        "nom": "ANGODONGODONA",
+        "code": "000892"
+      },
+      {
+        "nom": "ANTANAMBAO",
+        "code": "000893"
+      },
+      {
+        "nom": "BEFODY",
+        "code": "000894"
+      },
+      {
+        "nom": "FIADANANA",
+        "code": "000895"
+      },
+      {
+        "nom": "NOSY VARIKA",
+        "code": "000896"
+      },
+      {
+        "nom": "SAHAVATO",
+        "code": "000897"
+      },
+      {
+        "nom": "SOAVINA",
+        "code": "000898"
+      },
+      {
+        "nom": "VOHIDROA",
+        "code": "000899"
+      },
+      {
+        "nom": "VOHILAVA",
+        "code": "000900"
+      },
+      {
+        "nom": "VOHITRANDRIANA",
+        "code": "000901"
+      },
+      {
+        "nom": "FANIVELONA",
+        "code": "000902"
+      }
+    ]
+  },
+  "BETSIBOKA": {
+    "KANDREHO": [
+      {
+        "nom": "AMBALIHA",
+        "code": "000903"
+      },
+      {
+        "nom": "ANDASIBE",
+        "code": "000904"
+      },
+      {
+        "nom": "ANTANIMBARIBE",
+        "code": "000905"
+      },
+      {
+        "nom": "BEHAZOMATY",
+        "code": "000906"
+      },
+      {
+        "nom": "BETAIMBOAY",
+        "code": "000907"
+      },
+      {
+        "nom": "KANDREHO",
+        "code": "000908"
+      },
+      {
+        "nom": "MAHATSINJO SUD",
+        "code": "000909"
+      }
+    ],
+    "MAEVATANANA": [
+      {
+        "nom": "AMBALAJIA",
+        "code": "000910"
+      },
+      {
+        "nom": "AMBALANJANAKOMBY",
+        "code": "000911"
+      },
+      {
+        "nom": "ANDRIBA",
+        "code": "000912"
+      },
+      {
+        "nom": "ANTANIMBARY",
+        "code": "000913"
+      },
+      {
+        "nom": "ANTSIAFABOSITRA",
+        "code": "000914"
+      },
+      {
+        "nom": "BEMOKOTRA",
+        "code": "000915"
+      },
+      {
+        "nom": "BERATSIMANINA",
+        "code": "000916"
+      },
+      {
+        "nom": "MADIROMIRAFY",
+        "code": "000917"
+      },
+      {
+        "nom": "MAEVATANANA I",
+        "code": "000918"
+      },
+      {
+        "nom": "MAEVATANANA II",
+        "code": "000919"
+      },
+      {
+        "nom": "MAHATSINJO",
+        "code": "000920"
+      },
+      {
+        "nom": "MAHAZOMA",
+        "code": "000921"
+      },
+      {
+        "nom": "MANGABE",
+        "code": "000922"
+      },
+      {
+        "nom": "MARIA",
+        "code": "000923"
+      },
+      {
+        "nom": "MAROKORO",
+        "code": "000924"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "000925"
+      },
+      {
+        "nom": "TSARARANO",
+        "code": "000926"
+      },
+      {
+        "nom": "BEANANA",
+        "code": "000927"
+      },
+      {
+        "nom": "BERIVOTRA 5/5",
+        "code": "000928"
+      }
+    ],
+    "TSARATANANA": [
+      {
+        "nom": "AMBAKIRENY",
+        "code": "000929"
+      },
+      {
+        "nom": "AMPANDRANA",
+        "code": "000930"
+      },
+      {
+        "nom": "ANDRIAMENA",
+        "code": "000931"
+      },
+      {
+        "nom": "BEKAPAIKA",
+        "code": "000932"
+      },
+      {
+        "nom": "BETRANDRAKA",
+        "code": "000933"
+      },
+      {
+        "nom": "BRIEVILLE",
+        "code": "000934"
+      },
+      {
+        "nom": "KELILOHA",
+        "code": "000935"
+      },
+      {
+        "nom": "MANAKANA",
+        "code": "000936"
+      },
+      {
+        "nom": "SAKOAMADINIKA",
+        "code": "000937"
+      },
+      {
+        "nom": "SAROBARATRA",
+        "code": "000938"
+      },
+      {
+        "nom": "TSARAROVA",
+        "code": "000939"
+      },
+      {
+        "nom": "TSARATANANA",
+        "code": "000940"
+      },
+      {
+        "nom": "ISINKO",
+        "code": "000941"
+      }
+    ]
+  },
+  "BOENY": {
+    "AMBATO BOENI": [
+      {
+        "nom": "AMBATOBOENY",
+        "code": "000942"
+      },
+      {
+        "nom": "AMBONDROMAMY",
+        "code": "000943"
+      },
+      {
+        "nom": "ANDRANOFASIKA",
+        "code": "000944"
+      },
+      {
+        "nom": "ANDRANOMAMY",
+        "code": "000945"
+      },
+      {
+        "nom": "ANJIAJIA",
+        "code": "000946"
+      },
+      {
+        "nom": "ANKIJABE",
+        "code": "000947"
+      },
+      {
+        "nom": "ANKIRIHITRA",
+        "code": "000948"
+      },
+      {
+        "nom": "MADIROVALO",
+        "code": "000949"
+      },
+      {
+        "nom": "MANERINERINA",
+        "code": "000950"
+      },
+      {
+        "nom": "SITAMPIKY",
+        "code": "000951"
+      },
+      {
+        "nom": "TSARAMANDROSO",
+        "code": "000952"
+      },
+      {
+        "nom": "AMBESISIKA",
+        "code": "000953"
+      }
+    ],
+    "MAHAJANGA I": [
+      {
+        "nom": "MAHAJANGA",
+        "code": "000954"
+      }
+    ],
+    "MAHAJANGA II": [
+      {
+        "nom": "AMBALABE BEFANJAVA",
+        "code": "000955"
+      },
+      {
+        "nom": "AMBALAKIDA",
+        "code": "000956"
+      },
+      {
+        "nom": "ANDRANOBOKA",
+        "code": "000957"
+      },
+      {
+        "nom": "BEKOBAY CENTRE",
+        "code": "000958"
+      },
+      {
+        "nom": "BELOBAKA",
+        "code": "000959"
+      },
+      {
+        "nom": "BETSAKO",
+        "code": "000960"
+      },
+      {
+        "nom": "BOANAMARY",
+        "code": "000961"
+      },
+      {
+        "nom": "MAHAJAMBA USINE",
+        "code": "000962"
+      },
+      {
+        "nom": "MARIARANO",
+        "code": "000963"
+      }
+    ],
+    "MAROVOAY": [
+      {
+        "nom": "AMBOLOMOTY",
+        "code": "000964"
+      },
+      {
+        "nom": "ANKARAOBATO",
+        "code": "000965"
+      },
+      {
+        "nom": "ANKAZOMBORONA",
+        "code": "000966"
+      },
+      {
+        "nom": "ANOSINALAINOLONA",
+        "code": "000967"
+      },
+      {
+        "nom": "ANTANAMBAO ANDRANOLAVA",
+        "code": "000968"
+      },
+      {
+        "nom": "ANTANIMASAKA",
+        "code": "000969"
+      },
+      {
+        "nom": "BEMAHARIVO",
+        "code": "000970"
+      },
+      {
+        "nom": "MANARATSANDRY",
+        "code": "000971"
+      },
+      {
+        "nom": "MAROSAKOA",
+        "code": "000972"
+      },
+      {
+        "nom": "MAROVOAY",
+        "code": "000973"
+      },
+      {
+        "nom": "MAROVOAY BANLIEUE",
+        "code": "000974"
+      },
+      {
+        "nom": "TSARARANO",
+        "code": "000975"
+      },
+      {
+        "nom": "ANKABOKA",
+        "code": "000976"
+      }
+    ],
+    "MITSINJO": [
+      {
+        "nom": "AMBARIMANINGA",
+        "code": "000977"
+      },
+      {
+        "nom": "ANTONGOMENA BEVARY",
+        "code": "000978"
+      },
+      {
+        "nom": "ANTSEZA",
+        "code": "000979"
+      },
+      {
+        "nom": "BEKIPAY",
+        "code": "000980"
+      },
+      {
+        "nom": "KATSEPY",
+        "code": "000981"
+      },
+      {
+        "nom": "MATSAKABANJA",
+        "code": "000982"
+      },
+      {
+        "nom": "MITSINJO",
+        "code": "000983"
+      }
+    ],
+    "SOALALA": [
+      {
+        "nom": "AMBOHIPAKY",
+        "code": "000984"
+      },
+      {
+        "nom": "ANDRANOMAVO",
+        "code": "000985"
+      },
+      {
+        "nom": "SOALALA",
+        "code": "000986"
+      },
+      {
+        "nom": "ANTSAKOAMILEKA",
+        "code": "000987"
+      }
+    ]
+  },
+  "MELAKY": {
+    "AMBATOMAINTY": [
+      {
+        "nom": "AMBATOMAINTY",
+        "code": "000988"
+      },
+      {
+        "nom": "BEMARIVO",
+        "code": "000989"
+      },
+      {
+        "nom": "MAROTSIALEHA",
+        "code": "000990"
+      },
+      {
+        "nom": "SARODRANO",
+        "code": "000991"
+      },
+      {
+        "nom": "MAKARAINGO",
+        "code": "000992"
+      }
+    ],
+    "ANTSALOVA": [
+      {
+        "nom": "ANTSALOVA",
+        "code": "000993"
+      },
+      {
+        "nom": "BEKOPAKA",
+        "code": "000994"
+      },
+      {
+        "nom": "MASOARIVO",
+        "code": "000995"
+      },
+      {
+        "nom": "SOAHANY",
+        "code": "000996"
+      },
+      {
+        "nom": "TRANGAHY",
+        "code": "000997"
+      },
+      {
+        "nom": "BEMARAHA ATSINANANA",
+        "code": "000998"
+      }
+    ],
+    "BESALAMPY": [
+      {
+        "nom": "AMBOLODIA SUD",
+        "code": "000999"
+      },
+      {
+        "nom": "AMPAKO",
+        "code": "001000"
+      },
+      {
+        "nom": "ANKASAKASA TSIBIRAY",
+        "code": "001001"
+      },
+      {
+        "nom": "BEKODOKA",
+        "code": "001002"
+      },
+      {
+        "nom": "BESALAMPY",
+        "code": "001003"
+      },
+      {
+        "nom": "MAHABE",
+        "code": "001004"
+      },
+      {
+        "nom": "MAROVOAY SUD",
+        "code": "001005"
+      },
+      {
+        "nom": "SOANENGA",
+        "code": "001006"
+      },
+      {
+        "nom": "ANTSIRASIRA",
+        "code": "001007"
+      }
+    ],
+    "MAINTIRANO": [
+      {
+        "nom": "ANDABOTOKA",
+        "code": "001008"
+      },
+      {
+        "nom": "ANDRANOVAO",
+        "code": "001009"
+      },
+      {
+        "nom": "ANDREA",
+        "code": "001010"
+      },
+      {
+        "nom": "ANKISATRA",
+        "code": "001011"
+      },
+      {
+        "nom": "ANTSAIDOHA BEBAO",
+        "code": "001012"
+      },
+      {
+        "nom": "ANTSONDRODAVA",
+        "code": "001013"
+      },
+      {
+        "nom": "BEBABOKA SUD",
+        "code": "001014"
+      },
+      {
+        "nom": "BELITSAKY",
+        "code": "001015"
+      },
+      {
+        "nom": "BEMOKOTRA SUD",
+        "code": "001016"
+      },
+      {
+        "nom": "BEREVO RANOBE",
+        "code": "001017"
+      },
+      {
+        "nom": "BETANATANANA",
+        "code": "001018"
+      },
+      {
+        "nom": "MAFAIJIJO",
+        "code": "001019"
+      },
+      {
+        "nom": "MAINTIRANO",
+        "code": "001020"
+      },
+      {
+        "nom": "MAROHAZO",
+        "code": "001021"
+      },
+      {
+        "nom": "MAROMAVO",
+        "code": "001022"
+      },
+      {
+        "nom": "TAMBOHORANO",
+        "code": "001023"
+      },
+      {
+        "nom": "VEROMANGA",
+        "code": "001024"
+      }
+    ],
+    "MORAFENOBE": [
+      {
+        "nom": "ANDRAMY",
+        "code": "001025"
+      },
+      {
+        "nom": "BERAVINA",
+        "code": "001026"
+      },
+      {
+        "nom": "MORAFENOBE",
+        "code": "001027"
+      },
+      {
+        "nom": "ANTRANOKOAKY",
+        "code": "001028"
+      }
+    ]
+  },
+  "SOFIA": {
+    "ANALALAVA": [
+      {
+        "nom": "AMBALIHA",
+        "code": "001029"
+      },
+      {
+        "nom": "AMBARIJEBY SUD",
+        "code": "001030"
+      },
+      {
+        "nom": "AMBOLOBOZO",
+        "code": "001031"
+      },
+      {
+        "nom": "ANALALAVA",
+        "code": "001032"
+      },
+      {
+        "nom": "ANDRIBAVONTSINA",
+        "code": "001033"
+      },
+      {
+        "nom": "ANGOAKA SUD",
+        "code": "001034"
+      },
+      {
+        "nom": "ANKARAMY",
+        "code": "001035"
+      },
+      {
+        "nom": "ANTONIBE",
+        "code": "001036"
+      },
+      {
+        "nom": "BEFOTAKA NORD",
+        "code": "001037"
+      },
+      {
+        "nom": "MAHADRODROKA",
+        "code": "001038"
+      },
+      {
+        "nom": "MAROMANDIA",
+        "code": "001039"
+      },
+      {
+        "nom": "MAROVANTAZA",
+        "code": "001040"
+      },
+      {
+        "nom": "MAROVATOLENA",
+        "code": "001041"
+      },
+      {
+        "nom": "BEJOFO",
+        "code": "001042"
+      },
+      {
+        "nom": "ANDREVOREVO",
+        "code": "001043"
+      }
+    ],
+    "ANTSOHIHY": [
+      {
+        "nom": "AMBODIMADIRO",
+        "code": "001044"
+      },
+      {
+        "nom": "AMBODIMANARY",
+        "code": "001045"
+      },
+      {
+        "nom": "AMBODIMANDRESY",
+        "code": "001046"
+      },
+      {
+        "nom": "AMPANDRIANKILANDY",
+        "code": "001047"
+      },
+      {
+        "nom": "ANAHIDRANO",
+        "code": "001048"
+      },
+      {
+        "nom": "ANDREBA",
+        "code": "001049"
+      },
+      {
+        "nom": "ANJALAZALA",
+        "code": "001050"
+      },
+      {
+        "nom": "ANJIAMANGIRANA",
+        "code": "001051"
+      },
+      {
+        "nom": "ANKERIKA",
+        "code": "001052"
+      },
+      {
+        "nom": "ANTSAHABE",
+        "code": "001053"
+      },
+      {
+        "nom": "ANTSOHIHY",
+        "code": "001054"
+      },
+      {
+        "nom": "MAROALA",
+        "code": "001055"
+      },
+      {
+        "nom": "AMBALAFAMINTY",
+        "code": "001056"
+      }
+    ],
+    "BEALANANA": [
+      {
+        "nom": "AMBALAROMBA",
+        "code": "001057"
+      },
+      {
+        "nom": "AMBARARATA SOFIA",
+        "code": "001058"
+      },
+      {
+        "nom": "AMBARARATABE NORD",
+        "code": "001059"
+      },
+      {
+        "nom": "AMBATORIHA EST",
+        "code": "001060"
+      },
+      {
+        "nom": "AMBATOSIA",
+        "code": "001061"
+      },
+      {
+        "nom": "AMBODIADABO M",
+        "code": "001062"
+      },
+      {
+        "nom": "AMBODIAMPANA",
+        "code": "001063"
+      },
+      {
+        "nom": "AMBODISIKIDY",
+        "code": "001064"
+      },
+      {
+        "nom": "AMBOVONOMBY",
+        "code": "001065"
+      },
+      {
+        "nom": "ANALILA",
+        "code": "001066"
+      },
+      {
+        "nom": "ANJOZOROMADOSY",
+        "code": "001067"
+      },
+      {
+        "nom": "ANKAZOTOKANA",
+        "code": "001068"
+      },
+      {
+        "nom": "ANTANANIVO HAUT",
+        "code": "001069"
+      },
+      {
+        "nom": "ANTSAMAKA",
+        "code": "001070"
+      },
+      {
+        "nom": "BEALALANA",
+        "code": "001071"
+      },
+      {
+        "nom": "BEANDRAREZONA",
+        "code": "001072"
+      },
+      {
+        "nom": "MANGINDRANO",
+        "code": "001073"
+      },
+      {
+        "nom": "MAROTOLANA",
+        "code": "001074"
+      },
+      {
+        "nom": "AMBOHIMISONDROTRA",
+        "code": "001075"
+      },
+      {
+        "nom": "ANTSIRADAVA",
+        "code": "001076"
+      }
+    ],
+    "BEFANDRIANA NORD": [
+      {
+        "nom": "AMBARARATA",
+        "code": "001077"
+      },
+      {
+        "nom": "AMBODIMOTSO SUD",
+        "code": "001078"
+      },
+      {
+        "nom": "AMBOLIDIBE EST",
+        "code": "001079"
+      },
+      {
+        "nom": "ANKARONGANA",
+        "code": "001080"
+      },
+      {
+        "nom": "ANTSAKABARY",
+        "code": "001081"
+      },
+      {
+        "nom": "ANTSAKANALABE",
+        "code": "001082"
+      },
+      {
+        "nom": "BEFANDRIANA NORD",
+        "code": "001083"
+      },
+      {
+        "nom": "MAROAMALONA",
+        "code": "001084"
+      },
+      {
+        "nom": "MATSONDAKANA",
+        "code": "001085"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "001086"
+      },
+      {
+        "nom": "TSARAHONENANA",
+        "code": "001087"
+      },
+      {
+        "nom": "TSIAMALAO",
+        "code": "001088"
+      },
+      {
+        "nom": "BELALONA",
+        "code": "001089"
+      },
+      {
+        "nom": "AMBODIMOTSO-HAUT",
+        "code": "001090"
+      }
+    ],
+    "MAMPIKONY": [
+      {
+        "nom": "AMBODIHAZOAMBO",
+        "code": "001091"
+      },
+      {
+        "nom": "AMBOHITOAKA",
+        "code": "001092"
+      },
+      {
+        "nom": "AMPASIMATERA",
+        "code": "001093"
+      },
+      {
+        "nom": "ANKIRIRIKY",
+        "code": "001094"
+      },
+      {
+        "nom": "BEKORATSAKA",
+        "code": "001095"
+      },
+      {
+        "nom": "BETARAMAHAMAY",
+        "code": "001096"
+      },
+      {
+        "nom": "KOMAJIA",
+        "code": "001097"
+      },
+      {
+        "nom": "MALAKIALINA",
+        "code": "001098"
+      },
+      {
+        "nom": "MAMPIKONY",
+        "code": "001099"
+      },
+      {
+        "nom": "MAMPIKONY II",
+        "code": "001100"
+      },
+      {
+        "nom": "ANOVILAVA NORD",
+        "code": "001101"
+      }
+    ],
+    "MANDRITSARA": [
+      {
+        "nom": "AMBALAKIRAJY",
+        "code": "001102"
+      },
+      {
+        "nom": "AMBARIKORANO",
+        "code": "001103"
+      },
+      {
+        "nom": "AMBARIPAIKA",
+        "code": "001104"
+      },
+      {
+        "nom": "AMBILOMBE",
+        "code": "001105"
+      },
+      {
+        "nom": "AMBOABOA",
+        "code": "001106"
+      },
+      {
+        "nom": "AMBODIADABO",
+        "code": "001107"
+      },
+      {
+        "nom": "AMBODIAMONTANA KIANGA",
+        "code": "001108"
+      },
+      {
+        "nom": "AMBOHISOA",
+        "code": "001109"
+      },
+      {
+        "nom": "AMBORONDOLO",
+        "code": "001110"
+      },
+      {
+        "nom": "AMPATAKAMARORENY",
+        "code": "001111"
+      },
+      {
+        "nom": "ANDOHAJANGO",
+        "code": "001112"
+      },
+      {
+        "nom": "ANDRATAMARINA",
+        "code": "001113"
+      },
+      {
+        "nom": "ANJIABE",
+        "code": "001114"
+      },
+      {
+        "nom": "ANKIAKABE FONOKO",
+        "code": "001115"
+      },
+      {
+        "nom": "ANKIABE SALOHY",
+        "code": "001116"
+      },
+      {
+        "nom": "ANTANAMBAON'AMBERINA",
+        "code": "001117"
+      },
+      {
+        "nom": "ANTANANDAVA",
+        "code": "001118"
+      },
+      {
+        "nom": "ANTSATRAMIDOLA",
+        "code": "001119"
+      },
+      {
+        "nom": "ANTSIATSIAKA",
+        "code": "001120"
+      },
+      {
+        "nom": "ANTSIRABE CENTRE",
+        "code": "001121"
+      },
+      {
+        "nom": "ANTSOHA",
+        "code": "001122"
+      },
+      {
+        "nom": "KALANDY",
+        "code": "001123"
+      },
+      {
+        "nom": "MANAMPANEVA",
+        "code": "001124"
+      },
+      {
+        "nom": "MANDRITSARA",
+        "code": "001125"
+      },
+      {
+        "nom": "MAROTANDRANO",
+        "code": "001126"
+      },
+      {
+        "nom": "PONT -  SOFIA",
+        "code": "001127"
+      },
+      {
+        "nom": "TSARAJOMOKA",
+        "code": "001128"
+      },
+      {
+        "nom": "TSARATANANA",
+        "code": "001129"
+      },
+      {
+        "nom": "AMBINANIFANGO",
+        "code": "001130"
+      }
+    ],
+    "PORT-BERGE": [
+      {
+        "nom": "AMBANJABE",
+        "code": "001131"
+      },
+      {
+        "nom": "AMBODIMAHABIBO",
+        "code": "001132"
+      },
+      {
+        "nom": "AMBODISAKOANA",
+        "code": "001133"
+      },
+      {
+        "nom": "AMBODIVONGO",
+        "code": "001134"
+      },
+      {
+        "nom": "AMPARIHY",
+        "code": "001135"
+      },
+      {
+        "nom": "ANDRANOMEVA",
+        "code": "001136"
+      },
+      {
+        "nom": "LEANJA",
+        "code": "001137"
+      },
+      {
+        "nom": "MAEVARANOHELY",
+        "code": "001138"
+      },
+      {
+        "nom": "MAROVATO",
+        "code": "001139"
+      },
+      {
+        "nom": "PORT BERGE II",
+        "code": "001140"
+      },
+      {
+        "nom": "PORT-BERGE",
+        "code": "001141"
+      },
+      {
+        "nom": "TSARAHASINA",
+        "code": "001142"
+      },
+      {
+        "nom": "TSARATANANA I",
+        "code": "001143"
+      },
+      {
+        "nom": "TSININGIA",
+        "code": "001144"
+      },
+      {
+        "nom": "TSINJOMITONDRAKA",
+        "code": "001145"
+      },
+      {
+        "nom": "IHOBAKA",
+        "code": "001146"
+      },
+      {
+        "nom": "AMBATOMILAHATRANO",
+        "code": "001147"
+      },
+      {
+        "nom": "ANDRANOMENA I",
+        "code": "001148"
+      }
+    ]
+  },
+  "ALAOTRA-MANGORO": {
+    "AMBATONDRAZAKA": [
+      {
+        "nom": "AMBANDRIKA",
+        "code": "001149"
+      },
+      {
+        "nom": "AMBATONDRAZAKA",
+        "code": "001150"
+      },
+      {
+        "nom": "AMBATONDRAZAKA SUBURBAIN",
+        "code": "001151"
+      },
+      {
+        "nom": "AMBATOSORATRA",
+        "code": "001152"
+      },
+      {
+        "nom": "AMBOHITSILAOZANA",
+        "code": "001153"
+      },
+      {
+        "nom": "AMPARIHINTSOKATRA",
+        "code": "001154"
+      },
+      {
+        "nom": "AMPITATSIMO",
+        "code": "001155"
+      },
+      {
+        "nom": "ANDILANATOBY",
+        "code": "001156"
+      },
+      {
+        "nom": "ANDROMBA",
+        "code": "001157"
+      },
+      {
+        "nom": "ANTANANDAVA",
+        "code": "001158"
+      },
+      {
+        "nom": "ANTSANGASANGA",
+        "code": "001159"
+      },
+      {
+        "nom": "BEJOFO",
+        "code": "001160"
+      },
+      {
+        "nom": "DIDY",
+        "code": "001161"
+      },
+      {
+        "nom": "FERAMANGA NORD",
+        "code": "001162"
+      },
+      {
+        "nom": "ILAFY",
+        "code": "001163"
+      },
+      {
+        "nom": "IMERIMANDROSO",
+        "code": "001164"
+      },
+      {
+        "nom": "MANAKAMBAHINY EST",
+        "code": "001165"
+      },
+      {
+        "nom": "MANAKAMBAHINY OUEST",
+        "code": "001166"
+      },
+      {
+        "nom": "SOALAZAINA",
+        "code": "001167"
+      },
+      {
+        "nom": "TANAMBAO BESAKAY",
+        "code": "001168"
+      },
+      {
+        "nom": "AMBOHIDAVA",
+        "code": "001169"
+      },
+      {
+        "nom": "AMBOHIBOROMANGA",
+        "code": "001170"
+      }
+    ],
+    "AMPARAFARAVOLA": [
+      {
+        "nom": "AMBATOMAINTY",
+        "code": "001171"
+      },
+      {
+        "nom": "AMBOAVORY",
+        "code": "001172"
+      },
+      {
+        "nom": "AMBODIMANGA",
+        "code": "001173"
+      },
+      {
+        "nom": "AMBOHIJANAHARY",
+        "code": "001174"
+      },
+      {
+        "nom": "AMBOHIMANDROSO",
+        "code": "001175"
+      },
+      {
+        "nom": "AMBOHITRARIVO",
+        "code": "001176"
+      },
+      {
+        "nom": "AMPARAFARAVOLA",
+        "code": "001177"
+      },
+      {
+        "nom": "AMPASIKELY",
+        "code": "001178"
+      },
+      {
+        "nom": "ANDILANA NORD",
+        "code": "001179"
+      },
+      {
+        "nom": "ANDREBAKELY SUD",
+        "code": "001180"
+      },
+      {
+        "nom": "ANDREBAKELY NORD",
+        "code": "001181"
+      },
+      {
+        "nom": "ANORORO",
+        "code": "001182"
+      },
+      {
+        "nom": "BEANANA",
+        "code": "001183"
+      },
+      {
+        "nom": "BEDIDY",
+        "code": "001184"
+      },
+      {
+        "nom": "MORARANO CHROME",
+        "code": "001185"
+      },
+      {
+        "nom": "RANOMAINTY",
+        "code": "001186"
+      },
+      {
+        "nom": "SAHAMAMY",
+        "code": "001187"
+      },
+      {
+        "nom": "TANAMBE",
+        "code": "001188"
+      },
+      {
+        "nom": "VOHIMENA",
+        "code": "001189"
+      },
+      {
+        "nom": "VOHITSARA",
+        "code": "001190"
+      },
+      {
+        "nom": "ANDRANOBE",
+        "code": "001191"
+      },
+      {
+        "nom": "AMBODIRANO",
+        "code": "001192"
+      }
+    ],
+    "ANDILAMENA": [
+      {
+        "nom": "ANDILAMENA",
+        "code": "001193"
+      },
+      {
+        "nom": "ANTANIMENABAKA",
+        "code": "001194"
+      },
+      {
+        "nom": "BEMAITSO",
+        "code": "001195"
+      },
+      {
+        "nom": "MAITSOKELY",
+        "code": "001196"
+      },
+      {
+        "nom": "MAROADABO",
+        "code": "001197"
+      },
+      {
+        "nom": "MAROVATO",
+        "code": "001198"
+      },
+      {
+        "nom": "MIARINARIVO",
+        "code": "001199"
+      },
+      {
+        "nom": "TANANANIFOLOLAHY",
+        "code": "001200"
+      },
+      {
+        "nom": "AMPONDRABE",
+        "code": "001201"
+      }
+    ],
+    "ANOSIBE AN ALA": [
+      {
+        "nom": "AMBALAOMBY",
+        "code": "001202"
+      },
+      {
+        "nom": "AMBATOHARANANA",
+        "code": "001203"
+      },
+      {
+        "nom": "AMPANDROANTRAKA",
+        "code": "001204"
+      },
+      {
+        "nom": "AMPASIMANEVA",
+        "code": "001205"
+      },
+      {
+        "nom": "ANOSIBE AN'ALA",
+        "code": "001206"
+      },
+      {
+        "nom": "ANTANDROKOMBY",
+        "code": "001207"
+      },
+      {
+        "nom": "LONGOZABE",
+        "code": "001208"
+      },
+      {
+        "nom": "NIAROVANA",
+        "code": "001209"
+      },
+      {
+        "nom": "TRATRAMARINA",
+        "code": "001210"
+      },
+      {
+        "nom": "TSARAVINANY",
+        "code": "001211"
+      },
+      {
+        "nom": "AMBODIMERANA",
+        "code": "001212"
+      }
+    ],
+    "MORAMANGA": [
+      {
+        "nom": "AMBATOVOLA",
+        "code": "001213"
+      },
+      {
+        "nom": "AMBOASARY",
+        "code": "001214"
+      },
+      {
+        "nom": "AMBOHIBARY",
+        "code": "001215"
+      },
+      {
+        "nom": "AMBOHIDRONONO",
+        "code": "001216"
+      },
+      {
+        "nom": "AMPASIPOTSY GARE",
+        "code": "001217"
+      },
+      {
+        "nom": "AMPASIPOTSY MANDIALAZA",
+        "code": "001218"
+      },
+      {
+        "nom": "ANDAINGO",
+        "code": "001219"
+      },
+      {
+        "nom": "ANDASIBE",
+        "code": "001220"
+      },
+      {
+        "nom": "ANOSIBE IFODY",
+        "code": "001221"
+      },
+      {
+        "nom": "ANTANANDAVA",
+        "code": "001222"
+      },
+      {
+        "nom": "ANTANIDITRA",
+        "code": "001223"
+      },
+      {
+        "nom": "BEFORONA",
+        "code": "001224"
+      },
+      {
+        "nom": "BELAVABARY",
+        "code": "001225"
+      },
+      {
+        "nom": "MANGARIVOTRA (EX  BEPARASY)",
+        "code": "001226"
+      },
+      {
+        "nom": "FIERENANA",
+        "code": "001227"
+      },
+      {
+        "nom": "LAKATO",
+        "code": "001228"
+      },
+      {
+        "nom": "MANDIALAZA",
+        "code": "001229"
+      },
+      {
+        "nom": "MORAMANGA",
+        "code": "001230"
+      },
+      {
+        "nom": "MORARANO GARE",
+        "code": "001231"
+      },
+      {
+        "nom": "SABOTSY ANJIRO",
+        "code": "001232"
+      },
+      {
+        "nom": "VODIRIANA",
+        "code": "001233"
+      },
+      {
+        "nom": "BEMBARY",
+        "code": "001234"
+      },
+      {
+        "nom": "ANALASOA",
+        "code": "001235"
+      }
+    ]
+  },
+  "ANALANJIROFO": {
+    "FENERIVE EST": [
+      {
+        "nom": "AMBATOHARANANA",
+        "code": "001236"
+      },
+      {
+        "nom": "AMBODIMANGA II",
+        "code": "001237"
+      },
+      {
+        "nom": "AMPASIMBE MANANTSANTRANA",
+        "code": "001238"
+      },
+      {
+        "nom": "AMPASINA MANINGORY",
+        "code": "001239"
+      },
+      {
+        "nom": "ANTSIATSIAKA",
+        "code": "001240"
+      },
+      {
+        "nom": "FENERIVE VILLE",
+        "code": "001241"
+      },
+      {
+        "nom": "MAHAMBO",
+        "code": "001242"
+      },
+      {
+        "nom": "MAHANORO",
+        "code": "001243"
+      },
+      {
+        "nom": "MIORIMIVALANA",
+        "code": "001244"
+      },
+      {
+        "nom": "SARANAMBANA",
+        "code": "001245"
+      },
+      {
+        "nom": "VOHILENGO",
+        "code": "001246"
+      },
+      {
+        "nom": "VOHIPENO",
+        "code": "001247"
+      },
+      {
+        "nom": "AMBANJAN 'I SAHALAVA",
+        "code": "001248"
+      },
+      {
+        "nom": "BETAMPONA",
+        "code": "001249"
+      }
+    ],
+    "MANANARA-NORD": [
+      {
+        "nom": "AMBATOHARANANA",
+        "code": "001250"
+      },
+      {
+        "nom": "AMBODIAMPANA",
+        "code": "001251"
+      },
+      {
+        "nom": "AMBODIVOANIO",
+        "code": "001252"
+      },
+      {
+        "nom": "ANDASIBE",
+        "code": "001253"
+      },
+      {
+        "nom": "ANTANAMBAOBE",
+        "code": "001254"
+      },
+      {
+        "nom": "ANTANAMBE",
+        "code": "001255"
+      },
+      {
+        "nom": "ANTANANANIVO",
+        "code": "001256"
+      },
+      {
+        "nom": "IMORONA",
+        "code": "001257"
+      },
+      {
+        "nom": "MANAMBOLOSY",
+        "code": "001258"
+      },
+      {
+        "nom": "MANANARA NORD",
+        "code": "001259"
+      },
+      {
+        "nom": "SANDRAKATSY",
+        "code": "001260"
+      },
+      {
+        "nom": "SAROMAONA",
+        "code": "001261"
+      },
+      {
+        "nom": "TANIBE",
+        "code": "001262"
+      },
+      {
+        "nom": "VANONO",
+        "code": "001263"
+      },
+      {
+        "nom": "ANALANAMPOTSY",
+        "code": "001264"
+      },
+      {
+        "nom": "MAHANORO",
+        "code": "001265"
+      }
+    ],
+    "MAROANTSETRA": [
+      {
+        "nom": "AMBANIZANA",
+        "code": "001266"
+      },
+      {
+        "nom": "AMBINANITELO",
+        "code": "001267"
+      },
+      {
+        "nom": "AMBODIMANGA RANTABE",
+        "code": "001268"
+      },
+      {
+        "nom": "ANANDRIVOLA",
+        "code": "001269"
+      },
+      {
+        "nom": "ANDRANOFOTSY",
+        "code": "001270"
+      },
+      {
+        "nom": "ANDRONDRONA",
+        "code": "001271"
+      },
+      {
+        "nom": "ANJAHANA",
+        "code": "001272"
+      },
+      {
+        "nom": "ANJANAZANA",
+        "code": "001273"
+      },
+      {
+        "nom": "ANKOFA",
+        "code": "001274"
+      },
+      {
+        "nom": "ANKOFABE",
+        "code": "001275"
+      },
+      {
+        "nom": "ANTAKOTAKO",
+        "code": "001276"
+      },
+      {
+        "nom": "ANTSIRABE SAHATANY",
+        "code": "001277"
+      },
+      {
+        "nom": "MAHALEVONA",
+        "code": "001278"
+      },
+      {
+        "nom": "MANAMBOLO",
+        "code": "001279"
+      },
+      {
+        "nom": "MAROANTSETRA",
+        "code": "001280"
+      },
+      {
+        "nom": "MORAFENO",
+        "code": "001281"
+      },
+      {
+        "nom": "RANTABE",
+        "code": "001282"
+      },
+      {
+        "nom": "VOLOINA",
+        "code": "001283"
+      },
+      {
+        "nom": "MARIARANO",
+        "code": "001284"
+      },
+      {
+        "nom": "SAHASINDRO",
+        "code": "001285"
+      }
+    ],
+    "SAINTE MARIE": [
+      {
+        "nom": "SAINTE MARIE",
+        "code": "001286"
+      }
+    ],
+    "SOANIERANA IVONGO": [
+      {
+        "nom": "AMBAHOABE",
+        "code": "001287"
+      },
+      {
+        "nom": "AMBODIAMPANA",
+        "code": "001288"
+      },
+      {
+        "nom": "ANDAPAFITO",
+        "code": "001289"
+      },
+      {
+        "nom": "ANTANIFOTSY",
+        "code": "001290"
+      },
+      {
+        "nom": "ANTENINA",
+        "code": "001291"
+      },
+      {
+        "nom": "FOTSIALANANA",
+        "code": "001292"
+      },
+      {
+        "nom": "MANOMPANA",
+        "code": "001293"
+      },
+      {
+        "nom": "SOANIERANA IVONGO",
+        "code": "001294"
+      },
+      {
+        "nom": "AMBINANISAKANA",
+        "code": "001295"
+      }
+    ],
+    "VAVATENINA": [
+      {
+        "nom": "AMBATOHARANANA",
+        "code": "001296"
+      },
+      {
+        "nom": "AMBODIMANGAVALO",
+        "code": "001297"
+      },
+      {
+        "nom": "AMBOHIBE",
+        "code": "001298"
+      },
+      {
+        "nom": "AMPASIMAZAVA",
+        "code": "001299"
+      },
+      {
+        "nom": "ANDASIBE",
+        "code": "001300"
+      },
+      {
+        "nom": "ANJAHAMBE",
+        "code": "001301"
+      },
+      {
+        "nom": "MAROMITETY",
+        "code": "001302"
+      },
+      {
+        "nom": "MIARINARIVO",
+        "code": "001303"
+      },
+      {
+        "nom": "SAHATAVY",
+        "code": "001304"
+      },
+      {
+        "nom": "VAVATENINA",
+        "code": "001305"
+      },
+      {
+        "nom": "TANAMARINA",
+        "code": "001306"
+      }
+    ]
+  },
+  "ATSINANANA": {
+    "ANTANAMBAO MANAMPO": [
+      {
+        "nom": "ATNSYTANAMBAO MANAMPOTSY",
+        "code": "001307"
+      },
+      {
+        "nom": "ATNSYTANANDEHIBE",
+        "code": "001308"
+      },
+      {
+        "nom": "MTSAYHELA",
+        "code": "001309"
+      },
+      {
+        "nom": "MTSAYNAKANA",
+        "code": "001310"
+      },
+      {
+        "nom": "STASIYVAZA",
+        "code": "001311"
+      },
+      {
+        "nom": "MTSAYNARATSANDRY",
+        "code": "001312"
+      }
+    ],
+    "BRICKAVILLE": [
+      {
+        "nom": "AMBALARONDRA",
+        "code": "001313"
+      },
+      {
+        "nom": "AMBINANINONY",
+        "code": "001314"
+      },
+      {
+        "nom": "AMBOHIMANANA",
+        "code": "001315"
+      },
+      {
+        "nom": "AMPASIMBE",
+        "code": "001316"
+      },
+      {
+        "nom": "ANDEKALEKA",
+        "code": "001317"
+      },
+      {
+        "nom": "ANDOVORANTO",
+        "code": "001318"
+      },
+      {
+        "nom": "ANIVORANO EST",
+        "code": "001319"
+      },
+      {
+        "nom": "ANJAHAMANA",
+        "code": "001320"
+      },
+      {
+        "nom": "BRICKAVILLE",
+        "code": "001321"
+      },
+      {
+        "nom": "FANASANA",
+        "code": "001322"
+      },
+      {
+        "nom": "FETRAOMBY",
+        "code": "001323"
+      },
+      {
+        "nom": "LOHARIANDAVA",
+        "code": "001324"
+      },
+      {
+        "nom": "MAHATSARA",
+        "code": "001325"
+      },
+      {
+        "nom": "MAROSERANANA",
+        "code": "001326"
+      },
+      {
+        "nom": "RANOMAFANA EST",
+        "code": "001327"
+      },
+      {
+        "nom": "RAZANAKA",
+        "code": "001328"
+      },
+      {
+        "nom": "VOHITRANIVONA",
+        "code": "001329"
+      },
+      {
+        "nom": "ANTSAMPANANA",
+        "code": "001330"
+      }
+    ],
+    "MAHANORO": [
+      {
+        "nom": "AMBINANIDILANA",
+        "code": "001331"
+      },
+      {
+        "nom": "AMBINANINDRANO",
+        "code": "001332"
+      },
+      {
+        "nom": "AMBODIBONARA",
+        "code": "001333"
+      },
+      {
+        "nom": "AMBODIHARINA",
+        "code": "001334"
+      },
+      {
+        "nom": "ANKAZOTSIFANTATRA",
+        "code": "001335"
+      },
+      {
+        "nom": "BEFOTAKA",
+        "code": "001336"
+      },
+      {
+        "nom": "BETSIZARAINA",
+        "code": "001337"
+      },
+      {
+        "nom": "MAHANORO",
+        "code": "001338"
+      },
+      {
+        "nom": "MANJAKANDRIANA",
+        "code": "001339"
+      },
+      {
+        "nom": "MASOMELOKA",
+        "code": "001340"
+      },
+      {
+        "nom": "TSARAVINANY",
+        "code": "001341"
+      },
+      {
+        "nom": "ANDRANAMBOMARO",
+        "code": "001342"
+      }
+    ],
+    "MAROLAMBO": [
+      {
+        "nom": "AMBALAPAISO II",
+        "code": "001343"
+      },
+      {
+        "nom": "AMBATOFISAKA II",
+        "code": "001344"
+      },
+      {
+        "nom": "AMBOASARY",
+        "code": "001345"
+      },
+      {
+        "nom": "AMBODINONOKA",
+        "code": "001346"
+      },
+      {
+        "nom": "AMBODIVOAHANGY",
+        "code": "001347"
+      },
+      {
+        "nom": "AMBOHIMILANJA",
+        "code": "001348"
+      },
+      {
+        "nom": "ANDONABE SUD",
+        "code": "001349"
+      },
+      {
+        "nom": "ANDRORANGAVOLA",
+        "code": "001350"
+      },
+      {
+        "nom": "ANOSIARIVO",
+        "code": "001351"
+      },
+      {
+        "nom": "BETAMPONA",
+        "code": "001352"
+      },
+      {
+        "nom": "LOHAVANANA",
+        "code": "001353"
+      },
+      {
+        "nom": "MAROLAMBO",
+        "code": "001354"
+      },
+      {
+        "nom": "SAHAKEVO",
+        "code": "001355"
+      },
+      {
+        "nom": "TANAMBAO RABEMANANA",
+        "code": "001356"
+      },
+      {
+        "nom": "MAROMITETY I",
+        "code": "001357"
+      }
+    ],
+    "TOAMASINA I": [
+      {
+        "nom": "CU TOAMASINA",
+        "code": "001358"
+      },
+      {
+        "nom": "CU TOAMASINA arr. ANJOMA",
+        "code": "001359"
+      },
+      {
+        "nom": "CU TOAMASINA arr. ANKIRIHIRY",
+        "code": "001360"
+      },
+      {
+        "nom": "CU TOAMASINA arr. MORARANO",
+        "code": "001361"
+      },
+      {
+        "nom": "CU TOAMASINA arr. TANAMBAO",
+        "code": "001362"
+      }
+    ],
+    "TOAMASINA II": [
+      {
+        "nom": "AMBODILAZANA",
+        "code": "001363"
+      },
+      {
+        "nom": "AMBODIRIANA",
+        "code": "001364"
+      },
+      {
+        "nom": "AMBODITANDROHO",
+        "code": "001365"
+      },
+      {
+        "nom": "AMPASIMADINIKA",
+        "code": "001366"
+      },
+      {
+        "nom": "AMPASIMBE ONIBE",
+        "code": "001367"
+      },
+      {
+        "nom": "AMPISOKINA",
+        "code": "001368"
+      },
+      {
+        "nom": "AMPOROFORO",
+        "code": "001369"
+      },
+      {
+        "nom": "ANDONDABE",
+        "code": "001370"
+      },
+      {
+        "nom": "ANDRANOBOLAHA",
+        "code": "001371"
+      },
+      {
+        "nom": "ANTENINA",
+        "code": "001372"
+      },
+      {
+        "nom": "ANTETEZAMBARO",
+        "code": "001373"
+      },
+      {
+        "nom": "FANANDRANA",
+        "code": "001374"
+      },
+      {
+        "nom": "FITO",
+        "code": "001375"
+      },
+      {
+        "nom": "FOULPOINTE",
+        "code": "001376"
+      },
+      {
+        "nom": "MANGABE",
+        "code": "001377"
+      },
+      {
+        "nom": "SAHAMBALA",
+        "code": "001378"
+      },
+      {
+        "nom": "TOAMASINA SUBURBAINE",
+        "code": "001379"
+      },
+      {
+        "nom": "SATRANDROY",
+        "code": "001380"
+      }
+    ],
+    "VATOMANDRY": [
+      {
+        "nom": "AMBALABE",
+        "code": "001381"
+      },
+      {
+        "nom": "AMBALAVOLO",
+        "code": "001382"
+      },
+      {
+        "nom": "AMBODITAVOLO",
+        "code": "001383"
+      },
+      {
+        "nom": "AMBODIVOANANTO",
+        "code": "001384"
+      },
+      {
+        "nom": "AMPASIMADINIKA",
+        "code": "001385"
+      },
+      {
+        "nom": "AMPASIMAZAVA",
+        "code": "001386"
+      },
+      {
+        "nom": "ANTANAMBAO MAHATSARA",
+        "code": "001387"
+      },
+      {
+        "nom": "IAMBORANO",
+        "code": "001388"
+      },
+      {
+        "nom": "IFASINA I",
+        "code": "001389"
+      },
+      {
+        "nom": "IFASINA II",
+        "code": "001390"
+      },
+      {
+        "nom": "ILAKA EST",
+        "code": "001391"
+      },
+      {
+        "nom": "MAINTINANDRY",
+        "code": "001392"
+      },
+      {
+        "nom": "NIAROVANA CAROLINE",
+        "code": "001393"
+      },
+      {
+        "nom": "NIHERENANA",
+        "code": "001394"
+      },
+      {
+        "nom": "SAHAMATEVINA",
+        "code": "001395"
+      },
+      {
+        "nom": "TANAMBAO VAHATRAKAKA",
+        "code": "001396"
+      },
+      {
+        "nom": "TSARASAMBO",
+        "code": "001397"
+      },
+      {
+        "nom": "TSIVANGIANA",
+        "code": "001398"
+      },
+      {
+        "nom": "VATOMANDRY",
+        "code": "001399"
+      },
+      {
+        "nom": "IFASINA III",
+        "code": "001400"
+      },
+      {
+        "nom": "AMBODINONOKA RANGALANA",
+        "code": "001401"
+      }
+    ]
+  },
+  "ANDROY": {
+    "AMBOVOMBE ANDROY": [
+      {
+        "nom": "AMBANISARIKA",
+        "code": "001402"
+      },
+      {
+        "nom": "AMBAZOA",
+        "code": "001403"
+      },
+      {
+        "nom": "AMBOHIMALAZA",
+        "code": "001404"
+      },
+      {
+        "nom": "AMBONAIVO",
+        "code": "001405"
+      },
+      {
+        "nom": "AMBONDRO",
+        "code": "001406"
+      },
+      {
+        "nom": "AMBOVOMBE ANDROY",
+        "code": "001407"
+      },
+      {
+        "nom": "AMPAMATA",
+        "code": "001408"
+      },
+      {
+        "nom": "ANALAMARY",
+        "code": "001409"
+      },
+      {
+        "nom": "ANDALATANOSY",
+        "code": "001410"
+      },
+      {
+        "nom": "ANJEKY ANKILIKIRA",
+        "code": "001411"
+      },
+      {
+        "nom": "ANTANIMORA SUD",
+        "code": "001412"
+      },
+      {
+        "nom": "ERADA",
+        "code": "001413"
+      },
+      {
+        "nom": "IMANOMBO",
+        "code": "001414"
+      },
+      {
+        "nom": "JAFARO",
+        "code": "001415"
+      },
+      {
+        "nom": "MAROALOMAINTE",
+        "code": "001416"
+      },
+      {
+        "nom": "MAROALOPOTY",
+        "code": "001417"
+      },
+      {
+        "nom": "MAROVATO BEFENO",
+        "code": "001418"
+      },
+      {
+        "nom": "SIHANAMARO",
+        "code": "001419"
+      },
+      {
+        "nom": "TSIMANANADA",
+        "code": "001420"
+      },
+      {
+        "nom": "ANDRAGNANIVO",
+        "code": "001421"
+      },
+      {
+        "nom": "ANDOHARANO",
+        "code": "001422"
+      }
+    ],
+    "BEKILY": [
+      {
+        "nom": "AMBAHITA",
+        "code": "001423"
+      },
+      {
+        "nom": "AMBATOSOLA",
+        "code": "001424"
+      },
+      {
+        "nom": "ANIVORANO MITSINJO",
+        "code": "001425"
+      },
+      {
+        "nom": "ANJA NORD",
+        "code": "001426"
+      },
+      {
+        "nom": "ANKARANABO NORD",
+        "code": "001427"
+      },
+      {
+        "nom": "ANTSAKOAMARO",
+        "code": "001428"
+      },
+      {
+        "nom": "BEKITRO",
+        "code": "001429"
+      },
+      {
+        "nom": "BELINDO MAHASOA",
+        "code": "001430"
+      },
+      {
+        "nom": "BERAKETA",
+        "code": "001431"
+      },
+      {
+        "nom": "BESAKOA",
+        "code": "001432"
+      },
+      {
+        "nom": "BETEZA",
+        "code": "001433"
+      },
+      {
+        "nom": "BEVITIKY",
+        "code": "001434"
+      },
+      {
+        "nom": "MANAKOMPY",
+        "code": "001435"
+      },
+      {
+        "nom": "MAROVIRO",
+        "code": "001436"
+      },
+      {
+        "nom": "BEKILY CENTRALE",
+        "code": "001437"
+      },
+      {
+        "nom": "TANANDAVA",
+        "code": "001438"
+      },
+      {
+        "nom": "TSIKOLAKY",
+        "code": "001439"
+      },
+      {
+        "nom": "TSIRANDRANY",
+        "code": "001440"
+      },
+      {
+        "nom": "VOHIMANGA",
+        "code": "001441"
+      },
+      {
+        "nom": "MIKAIKARIVO AMBATOMAINTY",
+        "code": "001442"
+      }
+    ],
+    "BELOHA ANDROY": [
+      {
+        "nom": "BEHABOBO",
+        "code": "001443"
+      },
+      {
+        "nom": "BELOHA ANDROY",
+        "code": "001444"
+      },
+      {
+        "nom": "KOPOKY",
+        "code": "001445"
+      },
+      {
+        "nom": "MAROLINTA",
+        "code": "001446"
+      },
+      {
+        "nom": "TRANOROA",
+        "code": "001447"
+      },
+      {
+        "nom": "TRANOVAHO",
+        "code": "001448"
+      },
+      {
+        "nom": "AMBATOTSIVALA",
+        "code": "001449"
+      },
+      {
+        "nom": "MAHAENEGNE",
+        "code": "001450"
+      }
+    ],
+    "TSIHOMBE": [
+      {
+        "nom": "ANJAMPALY",
+        "code": "001451"
+      },
+      {
+        "nom": "ANTARITARIKA",
+        "code": "001452"
+      },
+      {
+        "nom": "FAUX CAP",
+        "code": "001453"
+      },
+      {
+        "nom": "IMONGY",
+        "code": "001454"
+      },
+      {
+        "nom": "MAROVATO",
+        "code": "001455"
+      },
+      {
+        "nom": "NIKOLY",
+        "code": "001456"
+      },
+      {
+        "nom": "TSIHOMBE",
+        "code": "001457"
+      },
+      {
+        "nom": "ANKILIVALO",
+        "code": "001458"
+      },
+      {
+        "nom": "BEHAZOMANGA",
+        "code": "001459"
+      }
+    ]
+  },
+  "ANOSY": {
+    "AMBOASARY SUD": [
+      {
+        "nom": "AMBOASARY SUD",
+        "code": "001460"
+      },
+      {
+        "nom": "BEHARA",
+        "code": "001461"
+      },
+      {
+        "nom": "EBELO",
+        "code": "001462"
+      },
+      {
+        "nom": "ELONTY",
+        "code": "001463"
+      },
+      {
+        "nom": "ESIRA",
+        "code": "001464"
+      },
+      {
+        "nom": "IFOTAKA",
+        "code": "001465"
+      },
+      {
+        "nom": "MAHALY",
+        "code": "001466"
+      },
+      {
+        "nom": "MANEVY",
+        "code": "001467"
+      },
+      {
+        "nom": "MAROMBY",
+        "code": "001468"
+      },
+      {
+        "nom": "MAROTSIRAKA",
+        "code": "001469"
+      },
+      {
+        "nom": "RANOBE",
+        "code": "001470"
+      },
+      {
+        "nom": "SAMPONA",
+        "code": "001471"
+      },
+      {
+        "nom": "TANANDAVA SUD",
+        "code": "001472"
+      },
+      {
+        "nom": "TOMBOARIVO",
+        "code": "001473"
+      },
+      {
+        "nom": "TRANOMARO",
+        "code": "001474"
+      },
+      {
+        "nom": "TSIVORY",
+        "code": "001475"
+      },
+      {
+        "nom": "MAHABO",
+        "code": "001476"
+      },
+      {
+        "nom": "BERANO VILLE",
+        "code": "001477"
+      }
+    ],
+    "BETROKA": [
+      {
+        "nom": "AMBALASOA",
+        "code": "001478"
+      },
+      {
+        "nom": "AMBATOMIVARY",
+        "code": "001479"
+      },
+      {
+        "nom": "ANALAMARY",
+        "code": "001480"
+      },
+      {
+        "nom": "ANDRIANDAMPY",
+        "code": "001481"
+      },
+      {
+        "nom": "BEAMPOMBO I",
+        "code": "001482"
+      },
+      {
+        "nom": "BEAMPOMBO II",
+        "code": "001483"
+      },
+      {
+        "nom": "BEKOROBO",
+        "code": "001484"
+      },
+      {
+        "nom": "BENATO TOBY",
+        "code": "001485"
+      },
+      {
+        "nom": "BETROKA",
+        "code": "001486"
+      },
+      {
+        "nom": "IABOROTRA",
+        "code": "001487"
+      },
+      {
+        "nom": "IANABINDA",
+        "code": "001488"
+      },
+      {
+        "nom": "IANAKAFY",
+        "code": "001489"
+      },
+      {
+        "nom": "ISOANALA",
+        "code": "001490"
+      },
+      {
+        "nom": "IVAHONA",
+        "code": "001491"
+      },
+      {
+        "nom": "JANGANY",
+        "code": "001492"
+      },
+      {
+        "nom": "MAHABO",
+        "code": "001493"
+      },
+      {
+        "nom": "MAHASOA EST",
+        "code": "001494"
+      },
+      {
+        "nom": "NANARENA BESAKOA",
+        "code": "001495"
+      },
+      {
+        "nom": "NANINORA",
+        "code": "001496"
+      },
+      {
+        "nom": "SAKAMAHILY",
+        "code": "001497"
+      },
+      {
+        "nom": "TSARAITSO",
+        "code": "001498"
+      },
+      {
+        "nom": "KELIVAHO",
+        "code": "001499"
+      }
+    ],
+    "TAOLANARO": [
+      {
+        "nom": "AMBATOABO",
+        "code": "001500"
+      },
+      {
+        "nom": "AMPASIMENA",
+        "code": "001501"
+      },
+      {
+        "nom": "AMPASY NAHAMPOANA",
+        "code": "001502"
+      },
+      {
+        "nom": "ANALAMARY",
+        "code": "001503"
+      },
+      {
+        "nom": "ANALAPATSY",
+        "code": "001504"
+      },
+      {
+        "nom": "ANDRANOBORY",
+        "code": "001505"
+      },
+      {
+        "nom": "ANKARAMENA",
+        "code": "001506"
+      },
+      {
+        "nom": "ANKARIERA",
+        "code": "001507"
+      },
+      {
+        "nom": "BEVOAY",
+        "code": "001508"
+      },
+      {
+        "nom": "EMAGNOBO",
+        "code": "001509"
+      },
+      {
+        "nom": "ENAKARA HAUT",
+        "code": "001510"
+      },
+      {
+        "nom": "ENANILIHA",
+        "code": "001511"
+      },
+      {
+        "nom": "FENOEVO EFITA",
+        "code": "001512"
+      },
+      {
+        "nom": "IABOAKOHO",
+        "code": "001513"
+      },
+      {
+        "nom": "IFARANTSA",
+        "code": "001514"
+      },
+      {
+        "nom": "ISAKA IVONDRO",
+        "code": "001515"
+      },
+      {
+        "nom": "MAHATALAKY",
+        "code": "001516"
+      },
+      {
+        "nom": "MANAMBARO",
+        "code": "001517"
+      },
+      {
+        "nom": "MANANTENINA",
+        "code": "001518"
+      },
+      {
+        "nom": "MANDISO",
+        "code": "001519"
+      },
+      {
+        "nom": "MANDROMODROMOTRA",
+        "code": "001520"
+      },
+      {
+        "nom": "RANOMAFANA SUD",
+        "code": "001521"
+      },
+      {
+        "nom": "RANOPISO",
+        "code": "001522"
+      },
+      {
+        "nom": "SARISAMBO",
+        "code": "001523"
+      },
+      {
+        "nom": "SOANIERANA",
+        "code": "001524"
+      },
+      {
+        "nom": "SOAVARY",
+        "code": "001525"
+      },
+      {
+        "nom": "TOLAGNARO",
+        "code": "001526"
+      },
+      {
+        "nom": "ANKILIVALO",
+        "code": "001527"
+      },
+      {
+        "nom": "TANANDAVA MANDRARE",
+        "code": "001528"
+      }
+    ]
+  },
+  "ATSIMO-ANDREFANA": {
+    "AMPANIHY OUEST": [
+      {
+        "nom": "AMBOROPOTSY",
+        "code": "001529"
+      },
+      {
+        "nom": "AMPANIHY CENTRE",
+        "code": "001530"
+      },
+      {
+        "nom": "ANDROKA",
+        "code": "001531"
+      },
+      {
+        "nom": "ANKILIABO",
+        "code": "001532"
+      },
+      {
+        "nom": "ANKILIMIVORY",
+        "code": "001533"
+      },
+      {
+        "nom": "ANKILIZATO",
+        "code": "001534"
+      },
+      {
+        "nom": "ANTALY",
+        "code": "001535"
+      },
+      {
+        "nom": "BEAHITSE",
+        "code": "001536"
+      },
+      {
+        "nom": "BELAFIKE HAUT",
+        "code": "001537"
+      },
+      {
+        "nom": "BEROY SUD",
+        "code": "001538"
+      },
+      {
+        "nom": "EJEDA",
+        "code": "001539"
+      },
+      {
+        "nom": "FOTADREVO",
+        "code": "001540"
+      },
+      {
+        "nom": "GOGOGOGO",
+        "code": "001541"
+      },
+      {
+        "nom": "ITAMPOLO",
+        "code": "001542"
+      },
+      {
+        "nom": "MANIRY",
+        "code": "001543"
+      },
+      {
+        "nom": "VOHITANY",
+        "code": "001544"
+      },
+      {
+        "nom": "AGNAVOHA",
+        "code": "001545"
+      },
+      {
+        "nom": "ANDROIMPANO",
+        "code": "001546"
+      },
+      {
+        "nom": "BEARA",
+        "code": "001547"
+      }
+    ],
+    "ANKAZOABO SUD": [
+      {
+        "nom": "ANDRANOMAFANA",
+        "code": "001548"
+      },
+      {
+        "nom": "ANKAZOABO SUD",
+        "code": "001549"
+      },
+      {
+        "nom": "BERENTY",
+        "code": "001550"
+      },
+      {
+        "nom": "FOTIVOLO",
+        "code": "001551"
+      },
+      {
+        "nom": "ILEMBY",
+        "code": "001552"
+      },
+      {
+        "nom": "TANDRANO",
+        "code": "001553"
+      },
+      {
+        "nom": "ANKILIVALOKELY",
+        "code": "001554"
+      },
+      {
+        "nom": "AMBATOLAHY",
+        "code": "001555"
+      },
+      {
+        "nom": "ANKERIKY",
+        "code": "001556"
+      }
+    ],
+    "BENENITRA": [
+      {
+        "nom": "AMBALAVATO",
+        "code": "001557"
+      },
+      {
+        "nom": "BENENITRA",
+        "code": "001558"
+      },
+      {
+        "nom": "EHARA",
+        "code": "001559"
+      },
+      {
+        "nom": "IANAPERA",
+        "code": "001560"
+      },
+      {
+        "nom": "BENONOKY",
+        "code": "001561"
+      },
+      {
+        "nom": "ANKILIMARY",
+        "code": "001562"
+      }
+    ],
+    "BEROROHA": [
+      {
+        "nom": "BEHISATSY",
+        "code": "001563"
+      },
+      {
+        "nom": "BEMAVO",
+        "code": "001564"
+      },
+      {
+        "nom": "BEROROHA",
+        "code": "001565"
+      },
+      {
+        "nom": "FANJAKANA",
+        "code": "001566"
+      },
+      {
+        "nom": "MANDRONARIVO",
+        "code": "001567"
+      },
+      {
+        "nom": "MARERANO",
+        "code": "001568"
+      },
+      {
+        "nom": "SAKENA",
+        "code": "001569"
+      },
+      {
+        "nom": "TANAMARY",
+        "code": "001570"
+      },
+      {
+        "nom": "TANANDAVA",
+        "code": "001571"
+      }
+    ],
+    "BETIOKY SUD": [
+      {
+        "nom": "AMBATRY MITSINJO",
+        "code": "001572"
+      },
+      {
+        "nom": "ANDRANOMANGATSIAKA",
+        "code": "001573"
+      },
+      {
+        "nom": "ANKAZOMANGA OUEST",
+        "code": "001574"
+      },
+      {
+        "nom": "ANKAZOMBALALA",
+        "code": "001575"
+      },
+      {
+        "nom": "ANKILIVALO",
+        "code": "001576"
+      },
+      {
+        "nom": "ANTOHABATO",
+        "code": "001577"
+      },
+      {
+        "nom": "ANTSAVOA",
+        "code": "001578"
+      },
+      {
+        "nom": "BEANTAKE",
+        "code": "001579"
+      },
+      {
+        "nom": "BELAMOTY",
+        "code": "001580"
+      },
+      {
+        "nom": "BESELY",
+        "code": "001581"
+      },
+      {
+        "nom": "BETIOKY SUD",
+        "code": "001582"
+      },
+      {
+        "nom": "BEZAHA",
+        "code": "001583"
+      },
+      {
+        "nom": "FENOANDALA",
+        "code": "001584"
+      },
+      {
+        "nom": "LAZARIVO",
+        "code": "001585"
+      },
+      {
+        "nom": "MANALOBE",
+        "code": "001586"
+      },
+      {
+        "nom": "MAROARIVO ANKAZOMANGA",
+        "code": "001587"
+      },
+      {
+        "nom": "MAROSAVOA",
+        "code": "001588"
+      },
+      {
+        "nom": "MASIABOAY",
+        "code": "001589"
+      },
+      {
+        "nom": "MONTIFENO",
+        "code": "001590"
+      },
+      {
+        "nom": "SAKAMASAY",
+        "code": "001591"
+      },
+      {
+        "nom": "SALOBE",
+        "code": "001592"
+      },
+      {
+        "nom": "SOAMANONGA",
+        "code": "001593"
+      },
+      {
+        "nom": "SOASERANA",
+        "code": "001594"
+      },
+      {
+        "nom": "TANAMBAO HAUT",
+        "code": "001595"
+      },
+      {
+        "nom": "TEMEANTSOA",
+        "code": "001596"
+      },
+      {
+        "nom": "TONGOBORY",
+        "code": "001597"
+      },
+      {
+        "nom": "VATOLATSAKA",
+        "code": "001598"
+      },
+      {
+        "nom": "BEORA",
+        "code": "001599"
+      },
+      {
+        "nom": "SAVAZY II",
+        "code": "001600"
+      },
+      {
+        "nom": "VOHIMARY",
+        "code": "001601"
+      }
+    ],
+    "MOROMBE": [
+      {
+        "nom": "AMBAHIKILY",
+        "code": "001602"
+      },
+      {
+        "nom": "ANTANIMIEVA",
+        "code": "001603"
+      },
+      {
+        "nom": "ANTONGO VAOVAO",
+        "code": "001604"
+      },
+      {
+        "nom": "BASIBASY",
+        "code": "001605"
+      },
+      {
+        "nom": "BEFANDEFA",
+        "code": "001606"
+      },
+      {
+        "nom": "BEFANDRIANA SUD",
+        "code": "001607"
+      },
+      {
+        "nom": "MOROMBE",
+        "code": "001608"
+      },
+      {
+        "nom": "TANANDAVA STATION",
+        "code": "001609"
+      },
+      {
+        "nom": "ANKATSAKANTSA SUD",
+        "code": "001610"
+      }
+    ],
+    "SAKARAHA": [
+      {
+        "nom": "AMBINANY",
+        "code": "001611"
+      },
+      {
+        "nom": "AMBORONABO",
+        "code": "001612"
+      },
+      {
+        "nom": "ANDAMASINY VINETA",
+        "code": "001613"
+      },
+      {
+        "nom": "ANDRANOLAVA",
+        "code": "001614"
+      },
+      {
+        "nom": "BERAKETA",
+        "code": "001615"
+      },
+      {
+        "nom": "MAHABOBOKA",
+        "code": "001616"
+      },
+      {
+        "nom": "MIARY LAMATIHY",
+        "code": "001617"
+      },
+      {
+        "nom": "MIARY TAHEZA",
+        "code": "001618"
+      },
+      {
+        "nom": "MIHAVATSY",
+        "code": "001619"
+      },
+      {
+        "nom": "MIKOBOKA",
+        "code": "001620"
+      },
+      {
+        "nom": "MITSINJO",
+        "code": "001621"
+      },
+      {
+        "nom": "SAKARAHA",
+        "code": "001622"
+      }
+    ],
+    "TOLIARY I": [
+      {
+        "nom": "TOLIARA I",
+        "code": "001623"
+      }
+    ],
+    "TOLIARY II": [
+      {
+        "nom": "AMBOHIMAHAVELONA",
+        "code": "001624"
+      },
+      {
+        "nom": "AMBOLOFOTY",
+        "code": "001625"
+      },
+      {
+        "nom": "ANAKAO",
+        "code": "001626"
+      },
+      {
+        "nom": "ANALAMISAMPY",
+        "code": "001627"
+      },
+      {
+        "nom": "ANDRANOHINALY",
+        "code": "001628"
+      },
+      {
+        "nom": "ANDRANOVORY",
+        "code": "001629"
+      },
+      {
+        "nom": "ANKILILOAKA",
+        "code": "001630"
+      },
+      {
+        "nom": "ANKILIMALINIKA",
+        "code": "001631"
+      },
+      {
+        "nom": "ANTANIMENA",
+        "code": "001632"
+      },
+      {
+        "nom": "BEHELOKA",
+        "code": "001633"
+      },
+      {
+        "nom": "BEHOMPY",
+        "code": "001634"
+      },
+      {
+        "nom": "BELALANDA",
+        "code": "001635"
+      },
+      {
+        "nom": "BETSINJAKA",
+        "code": "001636"
+      },
+      {
+        "nom": "MANOMBO SUD",
+        "code": "001637"
+      },
+      {
+        "nom": "MANOROFIFY",
+        "code": "001638"
+      },
+      {
+        "nom": "MAROFOTY",
+        "code": "001639"
+      },
+      {
+        "nom": "MAROMIANDRA",
+        "code": "001640"
+      },
+      {
+        "nom": "MIARY",
+        "code": "001641"
+      },
+      {
+        "nom": "MILENAKA",
+        "code": "001642"
+      },
+      {
+        "nom": "MITSINJO BETANIMENA",
+        "code": "001643"
+      },
+      {
+        "nom": "SAINT AUGUSTIN",
+        "code": "001644"
+      },
+      {
+        "nom": "SOALARA SUD",
+        "code": "001645"
+      },
+      {
+        "nom": "TSIANISIHA",
+        "code": "001646"
+      },
+      {
+        "nom": "EFOETSE",
+        "code": "001647"
+      },
+      {
+        "nom": "SOAHAZO",
+        "code": "001648"
+      },
+      {
+        "nom": "TSIFOTA",
+        "code": "001649"
+      }
+    ]
+  },
+  "MENABE": {
+    "BELO SUR TSIRIBIHINA": [
+      {
+        "nom": "AMBIKY",
+        "code": "001650"
+      },
+      {
+        "nom": "ABOALIMENA",
+        "code": "001651"
+      },
+      {
+        "nom": "ANDIMAKY MANAMBOLO",
+        "code": "001652"
+      },
+      {
+        "nom": "ANKALALOBE",
+        "code": "001653"
+      },
+      {
+        "nom": "ANKOROROKY",
+        "code": "001654"
+      },
+      {
+        "nom": "ANTSOHA",
+        "code": "001655"
+      },
+      {
+        "nom": "BELINTA",
+        "code": "001656"
+      },
+      {
+        "nom": "BELO SUR TSIRIBIHINA",
+        "code": "001657"
+      },
+      {
+        "nom": "BEMARIVO ANKIRONDRO",
+        "code": "001658"
+      },
+      {
+        "nom": "BEREVO",
+        "code": "001659"
+      },
+      {
+        "nom": "BEROBOKA",
+        "code": "001660"
+      },
+      {
+        "nom": "MASOARIVO",
+        "code": "001661"
+      },
+      {
+        "nom": "TSARAOTANA",
+        "code": "001662"
+      },
+      {
+        "nom": "TSIMAFANA",
+        "code": "001663"
+      },
+      {
+        "nom": "DELTA",
+        "code": "001664"
+      }
+    ],
+    "MAHABO": [
+      {
+        "nom": "AMBIA",
+        "code": "001665"
+      },
+      {
+        "nom": "AMPANIHY",
+        "code": "001666"
+      },
+      {
+        "nom": "ANALAMITSIVALANA",
+        "code": "001667"
+      },
+      {
+        "nom": "ANKILIVALO",
+        "code": "001668"
+      },
+      {
+        "nom": "ANKILIZATO",
+        "code": "001669"
+      },
+      {
+        "nom": "BEFOTAKA",
+        "code": "001670"
+      },
+      {
+        "nom": "BERONONO",
+        "code": "001671"
+      },
+      {
+        "nom": "MAHABO",
+        "code": "001672"
+      },
+      {
+        "nom": "MALAIMBANDY",
+        "code": "001673"
+      },
+      {
+        "nom": "MANDABE",
+        "code": "001674"
+      },
+      {
+        "nom": "TSIMAZAVA",
+        "code": "001675"
+      },
+      {
+        "nom": "BEZEZIKA",
+        "code": "001676"
+      }
+    ],
+    "MANJA": [
+      {
+        "nom": "ANDRANOPASY",
+        "code": "001677"
+      },
+      {
+        "nom": "ANKILIABO",
+        "code": "001678"
+      },
+      {
+        "nom": "ANONTSIBE CENTRE",
+        "code": "001679"
+      },
+      {
+        "nom": "BEHARONA",
+        "code": "001680"
+      },
+      {
+        "nom": "MANJA",
+        "code": "001681"
+      },
+      {
+        "nom": "SOASERANA",
+        "code": "001682"
+      },
+      {
+        "nom": "BETSIOKY",
+        "code": "001683"
+      }
+    ],
+    "MIANDRIVAZO": [
+      {
+        "nom": "AMBATOLAHY",
+        "code": "001684"
+      },
+      {
+        "nom": "AMPANIHY",
+        "code": "001685"
+      },
+      {
+        "nom": "ANKAVANDRA",
+        "code": "001686"
+      },
+      {
+        "nom": "ANKONDROMENA",
+        "code": "001687"
+      },
+      {
+        "nom": "ANKOTROFOTSY",
+        "code": "001688"
+      },
+      {
+        "nom": "ANOSIMENA",
+        "code": "001689"
+      },
+      {
+        "nom": "BEMAHATAZANA",
+        "code": "001690"
+      },
+      {
+        "nom": "BETSIPOLITRA",
+        "code": "001691"
+      },
+      {
+        "nom": "DABOLAVA",
+        "code": "001692"
+      },
+      {
+        "nom": "ISALO",
+        "code": "001693"
+      },
+      {
+        "nom": "ITONDY",
+        "code": "001694"
+      },
+      {
+        "nom": "MANAMBINA",
+        "code": "001695"
+      },
+      {
+        "nom": "MANANDAZA",
+        "code": "001696"
+      },
+      {
+        "nom": "MIANDRIVAZO",
+        "code": "001697"
+      },
+      {
+        "nom": "SOALOKA",
+        "code": "001698"
+      },
+      {
+        "nom": "ANDRANOMAINTY",
+        "code": "001699"
+      }
+    ],
+    "MORONDAVA": [
+      {
+        "nom": "ANALAIVA",
+        "code": "001700"
+      },
+      {
+        "nom": "BEFASY",
+        "code": "001701"
+      },
+      {
+        "nom": "BELO SUR MER",
+        "code": "001702"
+      },
+      {
+        "nom": "BEMANONGA",
+        "code": "001703"
+      },
+      {
+        "nom": "MORONDAVA",
+        "code": "001704"
+      },
+      {
+        "nom": "MAROFANDILIA",
+        "code": "001705"
+      }
+    ]
+  }
+}

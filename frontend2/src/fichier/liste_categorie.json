@@ -1,0 +1,91 @@
+{
+    "Administration et Impôts": [
+      "Manque de documents officiels",
+      "Paiement des taxes",
+      "Imposition de taxes supplémentaires",
+      "Paiements illégaux",
+      "Dépenses sans transparence"
+    ],
+    "Urbanisme et Occupation des sols": [
+      "Vente illégale de terrains",
+      "Établissements commerciaux informels",
+      "Constructions sans permis",
+      "Ajouts illégaux de bâtiments",
+      "Protection des terres traditionnelles"
+    ],
+    "Voirie et Transport": [
+      "Nids-de-poule sur les routes",
+      "Éclairage public défaillant",
+      "Déchets sur la voie publique",
+      "Stationnement insuffisant",
+      "Transports en commun défectueux",
+      "Marchands ambulants sur les routes"
+    ],
+    "Propreté et Gestion des déchets": [
+      "Déchets éparpillés",
+      "Déchets non collectés",
+      "Dépôt illégal de déchets",
+      "Décharges sauvages",
+      "Pollution des eaux",
+      "Odeurs nauséabondes"
+    ],
+    "Eau potable et Assainissement": [
+      "Pénurie d'eau potable",
+      "Fuites d'eau",
+      "Canaux d'évacuation bouchés",
+      "Eaux stagnantes",
+      "Puits non entretenus",
+      "Accès inégal à l'eau"
+    ],
+    "Sécurité publique": [
+      "Vols et cambriolages",
+      "Éclairage insuffisant la nuit",
+      "Trafic de drogue",
+      "Violences familiales",
+      "Enfants des rues",
+      "Banditisme"
+    ],
+    "Santé publique": [
+      "Dispensaires non fonctionnels",
+      "Manque de médicaments",
+      "Toilettes publiques insalubres",
+      "Maladies hydriques",
+      "Paludisme et dengue",
+      "Vaccination insuffisante"
+    ],
+    "Éducation": [
+      "Salles de classe surchargées",
+      "Manque de matériel scolaire",
+      "Écoles non entretenues",
+      "Absence de cantines scolaires",
+      "Frais scolaires excessifs"
+    ],
+    "Énergie et Électricité": [
+      "Coupures fréquentes d'électricité",
+      "Branchements illégaux",
+      "Factures d'électricité excessives",
+      "Pannes prolongées",
+      "Zones non électrifiées"
+    ],
+    "Agriculture et Élevage": [
+      "Vol de bétail",
+      "Destruction des cultures",
+      "Manque d'accès au crédit",
+      "Problèmes d'irrigation",
+      "Ravages des criquets"
+    ],
+    "Environnement": [
+      "Déforestation",
+      "Brûlis non contrôlés",
+      "Érosion des sols",
+      "Pollution des rivières",
+      "Protection des zones boisées"
+    ],
+    "Jeunesse et Sports": [
+      "Manque de terrains de sport",
+      "Équipements sportifs délabrés",
+      "Absence d'activités pour la jeunesse",
+      "Centres culturels fermés",
+      "Manque de soutien aux associations"
+    ]
+  }
